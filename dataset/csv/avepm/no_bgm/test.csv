@@ -1,0 +1,2294 @@
+sample_id,onset,offset,label,new_category,category_name,index,haveBGM
+21016,4.44,5.56,49,12,drifting car,18269,0
+14301,0.0,10.0,307,60,playing tennis,12468,0
+8060,0.0,10.0,343,72,plane taking off,7004,0
+1559,0.0,10.0,37,10,laser engraving,1312,0
+6516,0.0,10.0,93,31,playing guqin,5663,0
+16493,0.0,10.0,4,0,playing flute ,14339,0
+5036,0.0,10.0,353,79,watching a concert,4360,0
+14402,0.0,9.34,118,41,playing harmonica,12545,0
+25758,0.0,10.0,353,79,watching a concert,22432,0
+18509,0.0,10.0,342,71,feeding a cat,16085,0
+6848,0.0,3.74,76,23,feeding dogs,5947,0
+6844,0.0,10.0,76,23,feeding dogs,5943,0
+11919,0.0,10.0,353,79,watching a concert,10370,0
+22538,0.0,10.0,398,85,setting off fireworks and firecrackers,19598,0
+3615,0.0,10.0,306,59,playing volleyball,3118,0
+5987,2.24,7.76,322,64,boxing,5191,0
+12975,0.0,10.0,56,16,mixing cement/concrete,11310,0
+21424,0.0,10.0,346,74,playing drum,18623,0
+7837,0.0,10.0,81,27,playing erhu,6825,0
+22305,0.01,10.0,49,12,drifting car,19391,0
+6179,0.0,10.0,319,63,wrestling,5354,0
+520,3.02,9.99,199,50,arc welding,431,0
+3799,0.0,10.0,84,28,playing hang (instrument),3280,0
+27032,0.0,10.0,108,38,playing fingerstyle guitar,23540,0
+11193,0.0,10.0,133,44,tap dancing,9747,0
+1956,3.44,10.0,86,29,playing guzheng,1660,0
+22094,0.0,10.0,241,57,moving with forklift,19203,0
+20447,0.0,9.81,337,68,raining,17792,0
+10608,0.0,4.59,55,15,deconstructing a building,9241,0
+981,0.0,6.72,57,17,scraping putty/cement,823,0
+11964,0.02,10.0,349,77,playing suona,10412,0
+4700,0.08,10.0,102,34,playing hulusi,4063,0
+26920,0.0,9.99,398,85,setting off fireworks and firecrackers,23436,0
+22141,0.0,10.0,92,30,playing konghou,19248,0
+23889,0.0,10.0,348,76,playing piano,20802,0
+4066,0.0,10.0,81,27,playing erhu,3494,0
+1278,0.44,10.0,93,31,playing guqin,1078,0
+15323,4.44,10.0,32,8,washing car ,13346,0
+8395,8.75,10.0,199,50,arc welding,7289,0
+12310,0.0,10.0,164,48,jumping rope,10727,0
+13049,0.0,10.0,196,49,Playing the cello,11366,0
+9538,0.0,10.0,322,64,boxing,8289,0
+5605,0.0,3.0,353,79,watching a concert,4839,0
+7883,0.0,10.0,358,80,performing a duet,6862,0
+22904,0.0,10.0,76,23,feeding dogs,19933,0
+10128,0.0,10.0,93,31,playing guqin,8830,0
+20278,3.64,6.36,199,50,arc welding,17652,0
+6056,0.0,10.0,84,28,playing hang (instrument),5249,0
+6632,0.0,10.0,108,38,playing fingerstyle guitar,5762,0
+11436,0.0,10.0,84,28,playing hang (instrument),9960,0
+6405,0.0,10.0,353,79,watching a concert,5559,0
+15960,0.0,10.0,84,28,playing hang (instrument),13889,0
+8825,0.0,10.0,349,77,playing suona,7667,0
+11467,0.0,10.0,343,72,plane taking off,9986,0
+6733,0.0,9.91,199,50,arc welding,5853,0
+3943,0.0,10.0,14,5,operating a remote control car (excluding drifting/racing),3399,0
+10411,0.0,10.0,347,75,playing mbira,9077,0
+27406,0.0,10.0,10,2,playing ukulele ,23869,0
+9487,6.35,10.0,5,1,playing bamboo flute ,8242,0
+9791,0.0,10.0,341,70,panda eating bamboo,8524,0
+10188,0.0,10.0,108,38,playing fingerstyle guitar,8883,0
+15465,0.0,10.0,37,10,laser engraving,13478,0
+23851,0.0,10.0,84,28,playing hang (instrument),20768,0
+19381,0.0,10.0,346,74,playing drum,16867,0
+6773,0.0,4.78,312,62,playing badminton,5887,0
+12994,0.0,10.0,151,47,harvesting crops by machines,11326,0
+12367,3.82,10.0,353,79,watching a concert,10779,0
+19725,0.47,10.0,84,28,playing hang (instrument),17172,0
+17297,0.0,10.0,319,63,wrestling,15020,0
+13662,0.0,10.0,352,78,performing traditional Chinese opera,11896,0
+25991,0.0,10.0,341,70,panda eating bamboo,22636,0
+12244,0.0,10.0,76,23,feeding dogs,10664,0
+18578,0.0,10.0,307,60,playing tennis,16137,0
+2705,0.02,10.0,92,30,playing konghou,2321,0
+8398,0.0,10.0,353,79,watching a concert,7292,0
+26290,0.0,9.97,353,79,watching a concert,22890,0
+19697,0.0,10.0,305,58,playing table tennis,17146,0
+22137,0.0,10.0,108,38,playing fingerstyle guitar,19244,0
+4712,0.0,10.0,343,72,plane taking off,4073,0
+14159,0.0,10.0,108,38,playing fingerstyle guitar,12339,0
+23323,0.0,10.0,106,37,playing djembe,20302,0
+24345,0.0,9.67,5,1,playing bamboo flute ,21206,0
+22741,0.0,10.0,55,15,deconstructing a building,19789,0
+26443,0.0,10.0,84,28,playing hang (instrument),23038,0
+9349,0.0,10.0,397,84,clubbing,8120,0
+23479,0.17,10.0,349,77,playing suona,20440,0
+23528,3.56,6.43,52,13,brushing teeth,20482,0
+16555,0.0,10.0,322,64,boxing,14394,0
+26287,0.0,10.0,353,79,watching a concert,22887,0
+556,6.88,10.0,151,47,harvesting crops by machines,466,0
+20388,0.0,10.0,196,49,Playing the cello,17741,0
+6504,0.0,9.97,84,28,playing hang (instrument),5652,0
+23808,0.0,10.0,353,79,watching a concert,20726,0
+4824,0.0,10.0,358,80,performing a duet,4169,0
+9742,3.33,10.0,4,0,playing flute ,8478,0
+18240,0.0,10.0,84,28,playing hang (instrument),15857,0
+1415,0.0,10.0,108,38,playing fingerstyle guitar,1203,0
+21966,1.1,10.0,352,78,performing traditional Chinese opera,19088,0
+8634,0.0,9.97,398,85,setting off fireworks and firecrackers,7502,0
+16091,7.64,10.0,337,68,raining,13997,0
+10759,0.0,9.99,108,38,playing fingerstyle guitar,9381,0
+22864,1.23,10.0,348,76,playing piano,19897,0
+13842,0.0,10.0,86,29,playing guzheng,12057,0
+15493,0.37,9.63,84,28,playing hang (instrument),13497,0
+13196,0.0,10.0,353,79,watching a concert,11499,0
+5343,0.0,9.59,196,49,Playing the cello,4612,0
+1734,0.0,10.0,322,64,boxing,1453,0
+9010,0.0,10.0,358,80,performing a duet,7820,0
+2854,0.0,10.0,349,77,playing suona,2454,0
+10258,0.0,10.0,353,79,watching a concert,8946,0
+3014,0.0,10.0,353,79,watching a concert,2597,0
+7827,0.0,10.0,349,77,playing suona,6815,0
+22158,1.24,10.0,118,41,playing harmonica,19264,0
+5396,0.0,7.72,102,34,playing hulusi,4659,0
+22636,2.89,10.0,5,1,playing bamboo flute ,19688,0
+9639,3.66,10.0,118,41,playing harmonica,8389,0
+13437,0.0,10.0,93,31,playing guqin,11706,0
+21758,0.0,8.79,93,31,playing guqin,18910,0
+17237,2.41,10.0,5,1,playing bamboo flute ,14971,0
+13743,0.0,10.0,307,60,playing tennis,11970,0
+5627,0.0,10.0,106,37,playing djembe,4859,0
+15302,0.0,6.23,84,28,playing hang (instrument),13325,0
+25826,0.0,10.0,196,49,Playing the cello,22487,0
+23236,0.0,10.0,4,0,playing flute ,20225,0
+21616,0.0,10.0,54,14,cleaning carpet,18794,0
+13627,0.0,10.0,108,38,playing fingerstyle guitar,11866,0
+22239,0.0,9.92,118,41,playing harmonica,19335,0
+25089,3.56,10.0,19,6,riding a motorcycle (excluding drifting),21857,0
+18929,0.0,3.0,203,51,using a sewing machine,16460,0
+10690,0.0,10.0,81,27,playing erhu,9315,0
+4429,0.0,5.34,48,11,flying remote control drone,3817,0
+20646,0.0,5.8,48,11,flying remote control drone,17951,0
+18512,3.04,10.0,48,11,flying remote control drone,16088,0
+7687,0.0,10.0,349,77,playing suona,6693,0
+4432,0.0,10.0,4,0,playing flute ,3819,0
+20889,0.0,6.74,10,2,playing ukulele ,18164,0
+21734,0.0,10.0,312,62,playing badminton,18890,0
+7113,0.0,7.17,333,66,practicing archery,6178,0
+14597,0.0,10.0,349,77,playing suona,12720,0
+7723,0.0,10.0,108,38,playing fingerstyle guitar,6727,0
+1282,1.64,10.0,60,18,using a jack,1082,0
+15445,0.0,10.0,346,74,playing drum,13458,0
+22354,6.12,10.0,346,74,playing drum,19430,0
+13607,1.36,10.0,106,37,playing djembe,11846,0
+13635,0.0,10.0,120,42,playing melodica,11874,0
+11389,0.0,9.99,5,1,playing bamboo flute ,9918,0
+7696,0.0,7.05,118,41,playing harmonica,6700,0
+18926,0.0,10.0,342,71,feeding a cat,16457,0
+17048,0.0,10.0,359,81,singing,14813,0
+23144,0.0,10.0,10,2,playing ukulele ,20142,0
+7806,3.5,6.5,55,15,deconstructing a building,6796,0
+15503,0.0,10.0,359,81,singing,13506,0
+26741,0.0,9.62,118,41,playing harmonica,23289,0
+5638,0.0,10.0,12,3,carving with hand tools,4869,0
+16628,4.69,10.0,80,26,water truck sprinkling water,14461,0
+3134,0.0,10.0,84,28,playing hang (instrument),2700,0
+19760,0.0,10.0,120,42,playing melodica,17199,0
+24942,0.59,10.0,334,67,shooting with a slingshot,21729,0
+25965,0.0,10.0,12,3,carving with hand tools,22613,0
+25146,0.0,10.0,352,78,performing traditional Chinese opera,21910,0
+21279,0.0,10.0,108,38,playing fingerstyle guitar,18491,0
+23267,0.0,10.0,353,79,watching a concert,20250,0
+9716,0.0,10.0,196,49,Playing the cello,8456,0
+21501,0.0,10.0,118,41,playing harmonica,18695,0
+27260,0.0,10.0,116,40,train running,23731,0
+3612,0.0,10.0,10,2,playing ukulele ,3117,0
+21340,0.0,10.0,397,84,clubbing,18550,0
+3772,3.48,6.51,10,2,playing ukulele ,3253,0
+5023,0.0,10.0,349,77,playing suona,4348,0
+24711,0.0,3.0,69,20,auto racing,21527,0
+25972,3.26,10.0,347,75,playing mbira,22618,0
+17521,0.29,10.0,81,27,playing erhu,15214,0
+7917,0.0,10.0,145,45,baby drinking milk,6893,0
+24000,0.0,10.0,341,70,panda eating bamboo,20901,0
+17663,4.08,9.99,310,61,skateboarding,15342,0
+10443,0.0,9.95,108,38,playing fingerstyle guitar,9108,0
+19354,0.0,10.0,133,44,tap dancing,16841,0
+26640,0.0,10.0,108,38,playing fingerstyle guitar,23201,0
+22079,0.0,10.0,349,77,playing suona,19189,0
+6637,0.0,10.0,57,17,scraping putty/cement,5766,0
+15725,2.96,10.0,397,84,clubbing,13688,0
+17922,0.0,10.0,349,77,playing suona,15579,0
+1330,0.01,10.0,358,80,performing a duet,1125,0
+22422,0.0,6.19,84,28,playing hang (instrument),19489,0
+5455,0.0,10.0,20,7,cutting with a circular saw,4712,0
+23148,0.0,10.0,358,80,performing a duet,20146,0
+21085,0.0,10.0,344,73,launching a racket,18321,0
+19867,0.0,10.0,359,81,singing,17292,0
+5629,0.0,10.0,106,37,playing djembe,4861,0
+27802,0.0,10.0,13,4,twisting balloons,24209,0
+22743,0.0,10.0,86,29,playing guzheng,19791,0
+24588,0.0,10.0,352,78,performing traditional Chinese opera,21418,0
+17691,1.46,10.0,92,30,playing konghou,15370,0
+15968,0.0,10.0,343,72,plane taking off,13896,0
+7709,0.0,10.0,5,1,playing bamboo flute ,6713,0
+11950,0.0,10.0,322,64,boxing,10399,0
+18298,0.0,10.0,306,59,playing volleyball,15901,0
+22210,3.61,10.0,388,83,whistling,19312,0
+12814,0.0,10.0,352,78,performing traditional Chinese opera,11169,0
+13389,0.0,10.0,343,72,plane taking off,11662,0
+23580,0.45,10.0,341,70,panda eating bamboo,20525,0
+1895,0.01,8.59,196,49,Playing the cello,1602,0
+21288,0.0,10.0,353,79,watching a concert,18500,0
+2846,0.0,10.0,349,77,playing suona,2447,0
+20873,0.0,10.0,358,80,performing a duet,18149,0
+22516,0.0,10.0,80,26,water truck sprinkling water,19576,0
+22096,0.0,3.0,353,79,watching a concert,19205,0
+25353,3.51,10.0,346,74,playing drum,22078,0
+14876,0.0,6.17,86,29,playing guzheng,12949,0
+7201,4.12,5.88,398,85,setting off fireworks and firecrackers,6259,0
+364,0.0,9.96,346,74,playing drum,292,0
+18911,0.0,10.0,4,0,playing flute ,16443,0
+26819,2.56,10.0,12,3,carving with hand tools,23352,0
+26396,0.0,7.25,196,49,Playing the cello,22991,0
+1836,2.75,10.0,86,29,playing guzheng,1548,0
+14012,0.0,10.0,397,84,clubbing,12208,0
+12652,0.0,10.0,398,85,setting off fireworks and firecrackers,11026,0
+16224,0.0,10.0,349,77,playing suona,14110,0
+4708,0.0,10.0,341,70,panda eating bamboo,4071,0
+24220,4.86,10.0,322,64,boxing,21090,0
+5446,3.2,6.8,104,35,fingerboarding,4703,0
+12359,0.0,10.0,102,34,playing hulusi,10772,0
+16117,0.0,9.37,86,29,playing guzheng,14022,0
+13318,0.0,10.0,84,28,playing hang (instrument),11600,0
+24776,3.23,6.77,342,71,feeding a cat,21580,0
+14703,0.0,10.0,359,81,singing,12806,0
+16734,0.0,10.0,348,76,playing piano,14559,0
+19479,0.0,10.0,347,75,playing mbira,16954,0
+25964,0.65,10.0,12,3,carving with hand tools,22612,0
+16216,0.0,10.0,84,28,playing hang (instrument),14102,0
+12901,0.0,10.0,346,74,playing drum,11241,0
+3823,0.0,10.0,118,41,playing harmonica,3303,0
+2227,0.75,10.0,84,28,playing hang (instrument),1897,0
+23680,3.42,6.58,113,39,meowing,20612,0
+24013,0.0,10.0,346,74,playing drum,20911,0
+10546,0.0,2.66,164,48,jumping rope,9188,0
+21562,0.0,10.0,196,49,Playing the cello,18746,0
+18605,0.0,10.0,5,1,playing bamboo flute ,16164,0
+18739,0.0,10.0,358,80,performing a duet,16284,0
+16746,0.0,10.0,120,42,playing melodica,14571,0
+1490,0.0,10.0,77,24,having a snowball fight,1261,0
+22823,0.0,10.0,388,83,whistling,19862,0
+22977,0.0,10.0,102,34,playing hulusi,19996,0
+1106,0.0,10.0,346,74,playing drum,925,0
+10857,4.45,5.55,5,1,playing bamboo flute ,9464,0
+19586,0.0,10.0,346,74,playing drum,17048,0
+21398,1.99,10.0,92,30,playing konghou,18599,0
+5739,0.0,9.99,342,71,feeding a cat,4962,0
+18741,0.0,10.0,358,80,performing a duet,16286,0
+14028,0.0,10.0,108,38,playing fingerstyle guitar,12222,0
+1988,0.0,9.04,37,10,laser engraving,1691,0
+7448,0.0,10.0,92,30,playing konghou,6485,0
+11259,0.0,10.0,359,81,singing,9801,0
+22298,0.0,10.0,100,33,carving wood,19384,0
+13161,0.0,10.0,116,40,train running,11467,0
+9320,0.0,9.96,342,71,feeding a cat,8094,0
+26155,0.0,10.0,148,46,piercing a balloon,22777,0
+9678,0.0,10.0,120,42,playing melodica,8421,0
+19669,0.0,10.0,92,30,playing konghou,17122,0
+18144,6.81,10.0,199,50,arc welding,15779,0
+19986,0.0,10.0,346,74,playing drum,17397,0
+23995,0.0,10.0,84,28,playing hang (instrument),20898,0
+6820,3.63,5.0,388,83,whistling,5925,0
+14956,1.0,10.0,5,1,playing bamboo flute ,13023,0
+14903,0.0,10.0,120,42,playing melodica,12974,0
+14451,0.0,10.0,116,40,train running,12589,0
+16596,0.0,10.0,352,78,performing traditional Chinese opera,14433,0
+4694,0.0,10.0,84,28,playing hang (instrument),4058,0
+25040,0.18,10.0,348,76,playing piano,21815,0
+27599,0.14,10.0,343,72,plane taking off,24033,0
+12886,0.0,10.0,346,74,playing drum,11232,0
+24478,0.0,10.0,353,79,watching a concert,21320,0
+18818,2.2,10.0,19,6,riding a motorcycle (excluding drifting),16360,0
+15089,0.0,3.04,312,62,playing badminton,13134,0
+23578,3.66,10.0,10,2,playing ukulele ,20523,0
+23500,0.89,10.0,84,28,playing hang (instrument),20461,0
+10614,1.41,8.59,319,63,wrestling,9245,0
+8802,1.93,8.07,61,19,using a hammer,7648,0
+3394,0.0,10.0,397,84,clubbing,2930,0
+23581,0.0,10.0,341,70,panda eating bamboo,20526,0
+26055,0.0,7.7,232,54,cleaning a washing machine,22696,0
+22703,0.0,10.0,14,5,operating a remote control car (excluding drifting/racing),19753,0
+14552,0.0,9.97,310,61,skateboarding,12679,0
+22604,0.0,10.0,131,43,practicing equestrianism,19659,0
+21925,0.01,10.0,307,60,playing tennis,19051,0
+23725,0.0,10.0,241,57,moving with forklift,20652,0
+22238,0.38,10.0,118,41,playing harmonica,19334,0
+4787,4.0,10.0,349,77,playing suona,4138,0
+25305,0.0,10.0,349,77,playing suona,22038,0
+24486,2.39,10.0,86,29,playing guzheng,21328,0
+20885,0.0,10.0,86,29,playing guzheng,18160,0
+8597,0.0,10.0,349,77,playing suona,7469,0
+1172,0.0,10.0,358,80,performing a duet,986,0
+8379,0.0,10.0,120,42,playing melodica,7280,0
+16792,0.0,10.0,92,30,playing konghou,14611,0
+9147,0.0,10.0,108,38,playing fingerstyle guitar,7948,0
+12739,0.1,10.0,10,2,playing ukulele ,11099,0
+5969,0.0,10.0,69,20,auto racing,5173,0
+16444,0.0,10.0,388,83,whistling,14293,0
+12135,0.0,10.0,108,38,playing fingerstyle guitar,10559,0
+1834,3.22,10.0,71,21,freeskating,1546,0
+22227,0.0,10.0,349,77,playing suona,19327,0
+44,0.0,6.58,322,64,boxing,40,0
+17171,0.0,10.0,349,77,playing suona,14917,0
+18300,0.0,10.0,93,31,playing guqin,15903,0
+10518,4.18,10.0,388,83,whistling,9162,0
+27502,0.0,10.0,10,2,playing ukulele ,23950,0
+22441,0.0,10.0,349,77,playing suona,19506,0
+9489,3.04,10.0,105,36,using a massage gun,8244,0
+20846,0.0,10.0,81,27,playing erhu,18125,0
+8982,0.0,10.0,102,34,playing hulusi,7795,0
+5012,0.0,10.0,349,77,playing suona,4338,0
+7601,2.0,10.0,37,10,laser engraving,6622,0
+23498,0.0,7.97,347,75,playing mbira,20459,0
+23168,0.0,10.0,349,77,playing suona,20162,0
+26816,0.0,10.0,348,76,playing piano,23349,0
+9545,0.0,10.0,337,68,raining,8296,0
+14379,0.0,3.0,116,40,train running,12526,0
+7283,0.0,9.13,359,81,singing,6328,0
+8648,0.0,10.0,92,30,playing konghou,7512,0
+3875,0.0,10.0,92,30,playing konghou,3343,0
+26638,0.0,10.0,108,38,playing fingerstyle guitar,23199,0
+10610,0.0,10.0,397,84,clubbing,9243,0
+13955,0.0,10.0,352,78,performing traditional Chinese opera,12158,0
+3714,0.0,10.0,349,77,playing suona,3205,0
+13775,0.0,10.0,398,85,setting off fireworks and firecrackers,12000,0
+25682,0.16,10.0,93,31,playing guqin,22364,0
+16777,0.0,10.0,93,31,playing guqin,14598,0
+22095,0.0,10.0,241,57,moving with forklift,19204,0
+9155,0.0,10.0,80,26,water truck sprinkling water,7956,0
+3555,1.89,10.0,342,71,feeding a cat,3064,0
+21083,0.0,10.0,343,72,plane taking off,18319,0
+17652,0.0,10.0,358,80,performing a duet,15331,0
+13309,0.0,10.0,84,28,playing hang (instrument),11592,0
+12923,0.0,10.0,10,2,playing ukulele ,11261,0
+3098,0.0,6.6,37,10,laser engraving,2668,0
+20997,0.0,10.0,106,37,playing djembe,18252,0
+18508,0.0,10.0,342,71,feeding a cat,16084,0
+26088,0.0,9.12,360,82,shaving head,22729,0
+266,0.32,9.68,12,3,carving with hand tools,213,0
+3817,0.0,10.0,12,3,carving with hand tools,3297,0
+21737,0.0,10.0,120,42,playing melodica,18893,0
+9769,0.0,1.23,118,41,playing harmonica,8504,0
+7830,0.0,10.0,349,77,playing suona,6818,0
+16333,0.61,10.0,84,28,playing hang (instrument),14196,0
+21617,0.0,10.0,54,14,cleaning carpet,18795,0
+8737,0.0,10.0,118,41,playing harmonica,7590,0
+8408,0.0,10.0,60,18,using a jack,7301,0
+9498,0.0,10.0,102,34,playing hulusi,8252,0
+11920,0.0,10.0,353,79,watching a concert,10371,0
+5454,0.0,10.0,20,7,cutting with a circular saw,4711,0
+4980,0.0,10.0,131,43,practicing equestrianism,4309,0
+10713,0.0,10.0,348,76,playing piano,9335,0
+9987,0.0,10.0,360,82,shaving head,8704,0
+5907,0.0,10.0,84,28,playing hang (instrument),5121,0
+3559,0.0,10.0,359,81,singing,3068,0
+128,0.0,10.0,359,81,singing,104,0
+8603,3.59,6.41,105,36,using a massage gun,7474,0
+21626,0.0,10.0,120,42,playing melodica,18804,0
+20097,0.0,10.0,80,26,water truck sprinkling water,17489,0
+2456,0.01,10.0,346,74,playing drum,2094,0
+8835,0.0,10.0,84,28,playing hang (instrument),7676,0
+1825,0.0,10.0,80,26,water truck sprinkling water,1537,0
+4197,0.0,10.0,52,13,brushing teeth,3615,0
+22571,0.0,10.0,344,73,launching a racket,19627,0
+23207,0.0,10.0,92,30,playing konghou,20197,0
+23688,0.0,10.0,349,77,playing suona,20616,0
+995,1.37,10.0,347,75,playing mbira,834,0
+21809,0.0,10.0,10,2,playing ukulele ,18957,0
+14846,6.76,9.65,100,33,carving wood,12923,0
+4244,0.0,10.0,92,30,playing konghou,3660,0
+503,0.0,10.0,352,78,performing traditional Chinese opera,415,0
+24556,4.02,5.98,93,31,playing guqin,21391,0
+18318,0.0,10.0,348,76,playing piano,15921,0
+10910,0.0,10.0,398,85,setting off fireworks and firecrackers,9509,0
+12059,0.0,10.0,348,76,playing piano,10494,0
+12005,0.0,10.0,353,79,watching a concert,10450,0
+26673,1.04,10.0,116,40,train running,23226,0
+571,4.86,10.0,104,35,fingerboarding,480,0
+8359,0.0,10.0,353,79,watching a concert,7260,0
+10121,0.0,10.0,54,14,cleaning carpet,8823,0
+12045,0.0,10.0,358,80,performing a duet,10482,0
+14340,0.0,10.0,398,85,setting off fireworks and firecrackers,12499,0
+12984,0.0,10.0,352,78,performing traditional Chinese opera,11319,0
+14764,0.91,10.0,118,41,playing harmonica,12859,0
+26563,0.0,10.0,347,75,playing mbira,23137,0
+13846,0.59,10.0,347,75,playing mbira,12061,0
+1859,0.0,10.0,54,14,cleaning carpet,1568,0
+23101,0.0,10.0,37,10,laser engraving,20100,0
+7792,3.29,6.71,133,44,tap dancing,6784,0
+5636,0.0,10.0,12,3,carving with hand tools,4867,0
+15427,0.0,10.0,307,60,playing tennis,13443,0
+13160,0.0,10.0,116,40,train running,11466,0
+6838,0.0,10.0,86,29,playing guzheng,5937,0
+19010,0.0,9.96,84,28,playing hang (instrument),16537,0
+16840,1.05,10.0,20,7,cutting with a circular saw,14648,0
+2382,0.0,10.0,120,42,playing melodica,2028,0
+11823,0.0,10.0,326,65,diving (sports),10290,0
+14035,0.0,10.0,118,41,playing harmonica,12229,0
+11728,2.09,7.28,347,75,playing mbira,10216,0
+12322,6.48,10.0,81,27,playing erhu,10737,0
+4166,0.0,10.0,108,38,playing fingerstyle guitar,3584,0
+24697,0.0,10.0,92,30,playing konghou,21513,0
+17099,0.0,10.0,106,37,playing djembe,14856,0
+9358,0.0,10.0,120,42,playing melodica,8129,0
+12933,0.0,10.0,4,0,playing flute ,11271,0
+7635,0.0,10.0,118,41,playing harmonica,6651,0
+3711,0.0,10.0,349,77,playing suona,3202,0
+9383,4.99,10.0,240,56,laser beam welding,8151,0
+188,2.88,7.65,76,23,feeding dogs,152,0
+13314,0.0,10.0,346,74,playing drum,11596,0
+7981,0.0,7.42,342,71,feeding a cat,6944,0
+20223,0.0,10.0,358,80,performing a duet,17603,0
+25408,0.0,10.0,349,77,playing suona,22127,0
+548,0.03,10.0,346,74,playing drum,458,0
+18385,0.0,10.0,349,77,playing suona,15981,0
+9209,0.0,10.0,92,30,playing konghou,8007,0
+22247,0.0,10.0,196,49,Playing the cello,19343,0
+13024,3.31,10.0,148,46,piercing a balloon,11352,0
+18032,0.0,10.0,81,27,playing erhu,15676,0
+22646,0.0,10.0,349,77,playing suona,19698,0
+7562,0.0,10.0,164,48,jumping rope,6588,0
+21306,0.0,10.0,118,41,playing harmonica,18517,0
+23400,0.01,10.0,81,27,playing erhu,20367,0
+27313,0.0,10.0,342,71,feeding a cat,23778,0
+21198,0.0,5.71,108,38,playing fingerstyle guitar,18417,0
+6115,0.0,10.0,108,38,playing fingerstyle guitar,5292,0
+27676,0.0,10.0,69,20,auto racing,24097,0
+4194,0.0,10.0,353,79,watching a concert,3612,0
+7508,0.0,10.0,353,79,watching a concert,6540,0
+18742,1.3,3.3,148,46,piercing a balloon,16287,0
+337,0.0,10.0,346,74,playing drum,271,0
+5801,0.0,10.0,108,38,playing fingerstyle guitar,5022,0
+12453,0.0,10.0,81,27,playing erhu,10861,0
+26645,4.44,10.0,346,74,playing drum,23206,0
+22380,0.0,10.0,118,41,playing harmonica,19451,0
+3436,0.0,10.0,196,49,Playing the cello,2971,0
+13562,2.68,10.0,106,37,playing djembe,11809,0
+9990,0.65,10.0,93,31,playing guqin,8707,0
+9881,0.0,8.86,319,63,wrestling,8607,0
+6750,0.0,10.0,358,80,performing a duet,5865,0
+11799,0.0,8.22,12,3,carving with hand tools,10271,0
+3353,0.0,10.0,343,72,plane taking off,2892,0
+5339,3.81,10.0,196,49,Playing the cello,4608,0
+22299,0.0,10.0,100,33,carving wood,19385,0
+12825,0.0,10.0,307,60,playing tennis,11179,0
+18022,0.0,10.0,346,74,playing drum,15666,0
+4269,0.0,10.0,102,34,playing hulusi,3685,0
+12279,3.07,10.0,359,81,singing,10698,0
+9333,0.0,10.0,358,80,performing a duet,8106,0
+5209,0.0,10.0,108,38,playing fingerstyle guitar,4499,0
+12638,0.0,10.0,310,61,skateboarding,11013,0
+25254,0.0,10.0,93,31,playing guqin,21990,0
+888,0.0,10.0,343,72,plane taking off,742,0
+23501,0.0,10.0,84,28,playing hang (instrument),20462,0
+10732,0.0,10.0,93,31,playing guqin,9354,0
+4418,0.0,10.0,78,25,harvesting rice,3808,0
+1955,0.0,10.0,359,81,singing,1659,0
+2696,0.31,10.0,92,30,playing konghou,2313,0
+6444,0.0,10.0,69,20,auto racing,5597,0
+14737,0.0,10.0,116,40,train running,12835,0
+10271,0.0,9.92,342,71,feeding a cat,8958,0
+20941,0.0,10.0,388,83,whistling,18204,0
+18301,0.0,10.0,93,31,playing guqin,15904,0
+14209,0.0,10.0,5,1,playing bamboo flute ,12380,0
+21361,0.0,10.0,86,29,playing guzheng,18567,0
+27675,0.09,10.0,69,20,auto racing,24096,0
+18185,0.0,10.0,84,28,playing hang (instrument),15810,0
+23737,6.02,10.0,57,17,scraping putty/cement,20661,0
+19449,0.0,10.0,341,70,panda eating bamboo,16927,0
+4838,0.0,10.0,86,29,playing guzheng,4179,0
+20864,0.0,10.0,349,77,playing suona,18140,0
+20033,2.77,10.0,86,29,playing guzheng,17428,0
+15604,0.0,10.0,4,0,playing flute ,13595,0
+27395,3.63,6.37,113,39,meowing,23858,0
+24590,0.0,10.0,352,78,performing traditional Chinese opera,21420,0
+27951,0.11,10.0,104,35,fingerboarding,24342,0
+13381,0.0,10.0,93,31,playing guqin,11654,0
+16440,0.0,10.0,93,31,playing guqin,14289,0
+21854,0.0,3.0,353,79,watching a concert,18995,0
+20091,0.0,10.0,358,80,performing a duet,17483,0
+27325,0.0,10.0,84,28,playing hang (instrument),23790,0
+4090,0.0,10.0,120,42,playing melodica,3515,0
+23853,0.0,10.0,84,28,playing hang (instrument),20770,0
+20466,0.05,9.95,108,38,playing fingerstyle guitar,17805,0
+21552,0.0,10.0,352,78,performing traditional Chinese opera,18737,0
+13588,0.0,10.0,353,79,watching a concert,11835,0
+15030,0.0,10.0,4,0,playing flute ,13086,0
+4493,1.34,10.0,341,70,panda eating bamboo,3869,0
+15349,0.0,10.0,348,76,playing piano,13371,0
+25325,3.13,4.34,113,39,meowing,22053,0
+22443,0.0,10.0,349,77,playing suona,19508,0
+12947,0.0,10.0,86,29,playing guzheng,11282,0
+17591,0.0,10.0,241,57,moving with forklift,15277,0
+21362,0.0,10.0,86,29,playing guzheng,18568,0
+15967,0.0,10.0,343,72,plane taking off,13895,0
+23127,0.0,10.0,145,45,baby drinking milk,20125,0
+8078,4.27,10.0,310,61,skateboarding,7021,0
+15213,2.99,10.0,352,78,performing traditional Chinese opera,13247,0
+22850,0.0,10.0,92,30,playing konghou,19883,0
+21653,0.0,10.0,353,79,watching a concert,18825,0
+11098,0.0,10.0,353,79,watching a concert,9670,0
+9725,0.0,10.0,353,79,watching a concert,8465,0
+5117,0.0,10.0,358,80,performing a duet,4426,0
+17068,0.0,10.0,306,59,playing volleyball,14829,0
+15762,0.0,10.0,352,78,performing traditional Chinese opera,13722,0
+4906,0.0,10.0,84,28,playing hang (instrument),4241,0
+6649,0.0,10.0,84,28,playing hang (instrument),5776,0
+10019,0.0,10.0,57,17,scraping putty/cement,8729,0
+8952,2.92,10.0,76,23,feeding dogs,7769,0
+12153,0.0,10.0,398,85,setting off fireworks and firecrackers,10575,0
+10629,0.0,10.0,348,76,playing piano,9260,0
+21146,4.08,5.92,334,67,shooting with a slingshot,18368,0
+21273,2.47,7.53,231,53,cleaning with a robot vacuum,18485,0
+21265,0.0,10.0,307,60,playing tennis,18478,0
+21692,0.0,10.0,352,78,performing traditional Chinese opera,18854,0
+5994,0.0,10.0,12,3,carving with hand tools,5198,0
+14146,0.0,10.0,76,23,feeding dogs,12327,0
+9494,0.0,10.0,352,78,performing traditional Chinese opera,8248,0
+20961,0.0,10.0,196,49,Playing the cello,18223,0
+8775,0.0,10.0,5,1,playing bamboo flute ,7622,0
+13326,0.0,10.0,93,31,playing guqin,11606,0
+14315,0.0,10.0,93,31,playing guqin,12478,0
+12223,0.0,10.0,92,30,playing konghou,10643,0
+19733,0.0,10.0,37,10,laser engraving,17179,0
+5075,0.0,8.52,398,85,setting off fireworks and firecrackers,4388,0
+22228,0.0,10.0,349,77,playing suona,19328,0
+12105,3.82,10.0,108,38,playing fingerstyle guitar,10532,0
+23822,2.57,10.0,307,60,playing tennis,20739,0
+15316,0.0,10.0,93,31,playing guqin,13339,0
+27352,0.0,10.0,353,79,watching a concert,23817,0
+12063,2.76,7.23,74,22,milking sheep,10498,0
+23206,0.0,10.0,92,30,playing konghou,20196,0
+11538,7.57,9.98,14,5,operating a remote control car (excluding drifting/racing),10046,0
+66,0.1,10.0,344,73,launching a racket,59,0
+11606,0.0,10.0,12,3,carving with hand tools,10105,0
+25107,0.0,10.0,120,42,playing melodica,21873,0
+16450,0.0,10.0,5,1,playing bamboo flute ,14299,0
+4871,0.0,10.0,346,74,playing drum,4209,0
+9074,0.0,10.0,12,3,carving with hand tools,7879,0
+18118,0.0,10.0,359,81,singing,15753,0
+14127,0.0,10.0,349,77,playing suona,12310,0
+399,0.0,10.0,397,84,clubbing,323,0
+22464,0.0,10.0,341,70,panda eating bamboo,19527,0
+18316,2.87,10.0,353,79,watching a concert,15919,0
+10440,0.0,10.0,108,38,playing fingerstyle guitar,9105,0
+26782,0.02,10.0,102,34,playing hulusi,23323,0
+16346,3.06,10.0,228,52,mowing a lawn,14208,0
+20645,0.0,10.0,48,11,flying remote control drone,17950,0
+12281,0.0,10.0,359,81,singing,10700,0
+26930,0.0,2.5,78,25,harvesting rice,23446,0
+17930,0.0,10.0,4,0,playing flute ,15587,0
+3727,0.0,10.0,120,42,playing melodica,3218,0
+25969,1.24,8.76,60,18,using a jack,22617,0
+2643,0.0,9.66,352,78,performing traditional Chinese opera,2262,0
+18695,3.2,10.0,92,30,playing konghou,16243,0
+23848,0.0,10.0,359,81,singing,20765,0
+6618,2.91,10.0,359,81,singing,5748,0
+20683,0.0,10.0,358,80,performing a duet,17984,0
+23226,0.0,10.0,196,49,Playing the cello,20215,0
+20984,0.0,10.0,342,71,feeding a cat,18239,0
+17909,0.0,10.0,343,72,plane taking off,15568,0
+20948,0.0,10.0,352,78,performing traditional Chinese opera,18210,0
+5628,0.0,10.0,106,37,playing djembe,4860,0
+4354,0.0,10.0,106,37,playing djembe,3752,0
+9495,0.0,10.0,352,78,performing traditional Chinese opera,8249,0
+7076,0.0,10.0,343,72,plane taking off,6144,0
+3632,0.0,10.0,106,37,playing djembe,3131,0
+463,3.79,6.21,312,62,playing badminton,377,0
+14494,0.0,10.0,92,30,playing konghou,12626,0
+25596,0.43,9.57,307,60,playing tennis,22288,0
+15680,0.0,10.0,353,79,watching a concert,13650,0
+17440,0.01,10.0,69,20,auto racing,15146,0
+4668,0.0,10.0,49,12,drifting car,4033,0
+15452,0.0,10.0,358,80,performing a duet,13465,0
+20398,4.63,10.0,349,77,playing suona,17750,0
+21287,0.0,10.0,353,79,watching a concert,18499,0
+18411,0.0,10.0,349,77,playing suona,16006,0
+26583,1.1,10.0,108,38,playing fingerstyle guitar,23150,0
+2021,0.0,10.0,359,81,singing,1718,0
+26378,0.0,10.0,397,84,clubbing,22974,0
+26071,0.0,10.0,353,79,watching a concert,22712,0
+14702,1.05,10.0,359,81,singing,12805,0
+16798,0.0,10.0,10,2,playing ukulele ,14616,0
+23952,0.0,10.0,120,42,playing melodica,20857,0
+224,0.0,10.0,69,20,auto racing,179,0
+14040,0.0,10.0,120,42,playing melodica,12234,0
+17971,0.0,10.0,348,76,playing piano,15616,0
+22972,0.0,10.0,84,28,playing hang (instrument),19991,0
+13143,0.0,10.0,343,72,plane taking off,11450,0
+18352,0.0,10.0,346,74,playing drum,15951,0
+21114,0.0,9.99,352,78,performing traditional Chinese opera,18342,0
+6919,0.0,10.0,353,79,watching a concert,6005,0
+21235,0.0,10.0,358,80,performing a duet,18448,0
+17289,0.0,10.0,108,38,playing fingerstyle guitar,15014,0
+23560,0.0,10.0,349,77,playing suona,20512,0
+25737,0.0,10.0,81,27,playing erhu,22413,0
+4854,0.0,6.24,240,56,laser beam welding,4192,0
+22093,0.0,10.0,241,57,moving with forklift,19202,0
+18897,0.52,10.0,196,49,Playing the cello,16429,0
+19499,0.0,10.0,341,70,panda eating bamboo,16972,0
+8736,0.0,10.0,118,41,playing harmonica,7589,0
+3899,2.07,4.12,312,62,playing badminton,3363,0
+4476,0.0,2.74,312,62,playing badminton,3855,0
+18091,0.04,9.88,36,9,modifying car,15728,0
+9301,0.0,10.0,338,69,scratching on a cat scratching board,8076,0
+14938,0.0,10.0,54,14,cleaning carpet,13007,0
+15474,0.0,10.0,4,0,playing flute ,13483,0
+27094,0.0,10.0,81,27,playing erhu,23598,0
+1263,0.0,7.98,231,53,cleaning with a robot vacuum,1066,0
+22430,0.0,10.0,81,27,playing erhu,19496,0
+4076,0.0,10.0,81,27,playing erhu,3501,0
+13822,0.06,10.0,349,77,playing suona,12038,0
+25346,0.0,10.0,346,74,playing drum,22071,0
+11143,0.0,10.0,4,0,playing flute ,9709,0
+13442,0.0,10.0,69,20,auto racing,11709,0
+14651,0.0,10.0,353,79,watching a concert,12762,0
+13867,2.37,7.63,104,35,fingerboarding,12080,0
+15031,0.0,10.0,4,0,playing flute ,13087,0
+6899,0.0,10.0,102,34,playing hulusi,5987,0
+18662,0.0,10.0,348,76,playing piano,16212,0
+13443,0.0,10.0,69,20,auto racing,11710,0
+13674,0.0,10.0,120,42,playing melodica,11908,0
+15456,0.0,10.0,346,74,playing drum,13469,0
+21102,0.0,10.0,84,28,playing hang (instrument),18332,0
+21955,0.0,10.0,81,27,playing erhu,19078,0
+16557,0.0,10.0,397,84,clubbing,14396,0
+23543,0.0,5.89,14,5,operating a remote control car (excluding drifting/racing),20496,0
+19189,0.0,10.0,352,78,performing traditional Chinese opera,16690,0
+24460,2.48,10.0,307,60,playing tennis,21303,0
+12921,0.0,10.0,349,77,playing suona,11259,0
+7058,0.0,10.0,5,1,playing bamboo flute ,6129,0
+11978,0.0,10.0,388,83,whistling,10425,0
+4132,0.0,10.0,349,77,playing suona,3554,0
+17345,0.0,10.0,133,44,tap dancing,15063,0
+20508,0.0,9.89,360,82,shaving head,17833,0
+4230,1.27,10.0,86,29,playing guzheng,3646,0
+16682,0.0,10.0,116,40,train running,14513,0
+26853,0.0,10.0,84,28,playing hang (instrument),23382,0
+8918,0.0,10.0,4,0,playing flute ,7739,0
+13458,0.0,10.0,358,80,performing a duet,11722,0
+3379,0.0,3.11,235,55,using a vacuum cleaner,2915,0
+8591,2.7,10.0,358,80,performing a duet,7464,0
+12580,0.0,10.0,349,77,playing suona,10965,0
+12250,0.0,10.0,116,40,train running,10670,0
+22181,3.33,6.68,232,54,cleaning a washing machine,19287,0
+19936,0.0,10.0,108,38,playing fingerstyle guitar,17351,0
+14463,0.0,10.0,106,37,playing djembe,12601,0
+15831,0.0,8.52,106,37,playing djembe,13783,0
+2720,0.0,10.0,349,77,playing suona,2335,0
+22168,0.03,10.0,353,79,watching a concert,19274,0
+25713,0.7,9.3,20,7,cutting with a circular saw,22390,0
+21684,0.0,10.0,352,78,performing traditional Chinese opera,18846,0
+290,0.0,10.0,235,55,using a vacuum cleaner,230,0
+18244,7.45,10.0,349,77,playing suona,15860,0
+16937,0.0,10.0,54,14,cleaning carpet,14725,0
+7839,0.0,10.0,81,27,playing erhu,6827,0
+16622,0.0,10.0,352,78,performing traditional Chinese opera,14456,0
+3954,0.0,10.0,359,81,singing,3409,0
+25540,0.0,10.0,108,38,playing fingerstyle guitar,22237,0
+15501,0.0,10.0,359,81,singing,13504,0
+13340,0.0,1.82,388,83,whistling,11618,0
+18956,0.0,10.0,349,77,playing suona,16487,0
+24863,2.04,10.0,397,84,clubbing,21659,0
+14066,0.0,10.0,10,2,playing ukulele ,12257,0
+20839,0.0,10.0,352,78,performing traditional Chinese opera,18118,0
+22184,0.0,10.0,349,77,playing suona,19290,0
+18835,0.12,10.0,4,0,playing flute ,16372,0
+9593,0.68,10.0,81,27,playing erhu,8343,0
+9073,0.0,10.0,12,3,carving with hand tools,7878,0
+23656,3.3,6.71,333,66,practicing archery,20589,0
+18966,0.0,10.0,358,80,performing a duet,16496,0
+19976,0.0,10.0,397,84,clubbing,17387,0
+11772,3.2,6.8,319,63,wrestling,10249,0
+1129,0.01,10.0,86,29,playing guzheng,946,0
+136,0.0,10.0,10,2,playing ukulele ,110,0
+4882,0.0,8.52,398,85,setting off fireworks and firecrackers,4220,0
+3361,0.0,10.0,347,75,playing mbira,2898,0
+2862,0.0,5.42,106,37,playing djembe,2462,0
+26929,0.0,10.0,78,25,harvesting rice,23445,0
+13952,0.0,10.0,352,78,performing traditional Chinese opera,12155,0
+12787,0.0,3.55,148,46,piercing a balloon,11144,0
+12803,2.27,9.99,19,6,riding a motorcycle (excluding drifting),11159,0
+6543,0.0,10.0,341,70,panda eating bamboo,5685,0
+23831,0.16,10.0,341,70,panda eating bamboo,20748,0
+6212,0.0,10.0,358,80,performing a duet,5384,0
+24338,0.16,10.0,133,44,tap dancing,21199,0
+2784,1.87,8.13,52,13,brushing teeth,2395,0
+2125,1.5,8.5,54,14,cleaning carpet,1806,0
+21145,8.64,9.97,14,5,operating a remote control car (excluding drifting/racing),18367,0
+12036,0.0,8.8,84,28,playing hang (instrument),10475,0
+2889,0.0,10.0,359,81,singing,2488,0
+23623,0.01,7.05,10,2,playing ukulele ,20567,0
+12614,0.0,10.0,358,80,performing a duet,10994,0
+2597,3.74,10.0,344,73,launching a racket,2218,0
+19926,0.0,10.0,203,51,using a sewing machine,17342,0
+1889,0.0,9.6,307,60,playing tennis,1596,0
+21718,0.0,10.0,359,81,singing,18874,0
+11753,0.0,10.0,352,78,performing traditional Chinese opera,10233,0
+17814,0.0,2.76,333,66,practicing archery,15482,0
+15410,0.0,10.0,118,41,playing harmonica,13427,0
+24334,0.0,10.0,48,11,flying remote control drone,21196,0
+17086,0.0,10.0,4,0,playing flute ,14844,0
+23312,0.0,10.0,307,60,playing tennis,20293,0
+16569,0.0,10.0,76,23,feeding dogs,14408,0
+13776,0.0,10.0,398,85,setting off fireworks and firecrackers,12001,0
+6699,4.63,10.0,349,77,playing suona,5822,0
+1019,3.48,10.0,310,61,skateboarding,854,0
+19913,0.0,10.0,86,29,playing guzheng,17329,0
+11279,0.0,10.0,92,30,playing konghou,9820,0
+12880,0.0,10.0,353,79,watching a concert,11226,0
+3713,0.0,10.0,349,77,playing suona,3204,0
+1302,0.0,10.0,359,81,singing,1100,0
+17293,0.0,10.0,93,31,playing guqin,15016,0
+8458,0.0,9.98,145,45,baby drinking milk,7345,0
+10054,2.47,10.0,81,27,playing erhu,8761,0
+4121,0.0,10.0,348,76,playing piano,3544,0
+14668,0.07,9.93,52,13,brushing teeth,12776,0
+9667,0.0,10.0,196,49,Playing the cello,8410,0
+15184,0.0,10.0,358,80,performing a duet,13220,0
+673,5.0,10.0,52,13,brushing teeth,560,0
+23302,0.0,8.87,93,31,playing guqin,20284,0
+1923,0.0,10.0,353,79,watching a concert,1629,0
+25115,0.0,10.0,353,79,watching a concert,21881,0
+2113,0.0,10.0,37,10,laser engraving,1795,0
+3115,0.0,10.0,54,14,cleaning carpet,2684,0
+24062,3.98,10.0,334,67,shooting with a slingshot,20950,0
+19078,0.0,10.0,5,1,playing bamboo flute ,16593,0
+8809,0.0,2.19,338,69,scratching on a cat scratching board,7654,0
+9197,0.0,10.0,352,78,performing traditional Chinese opera,7995,0
+24363,0.0,10.0,342,71,feeding a cat,21219,0
+20678,0.0,10.0,359,81,singing,17979,0
+6711,0.0,10.0,102,34,playing hulusi,5831,0
+14599,2.98,10.0,84,28,playing hang (instrument),12722,0
+21796,0.01,10.0,352,78,performing traditional Chinese opera,18944,0
+24475,0.0,6.66,349,77,playing suona,21317,0
+19854,0.0,10.0,388,83,whistling,17279,0
+2985,4.43,10.0,341,70,panda eating bamboo,2574,0
+24619,3.2,9.09,349,77,playing suona,21444,0
+23916,0.0,10.0,305,58,playing table tennis,20827,0
+23845,0.74,10.0,359,81,singing,20762,0
+22122,0.0,10.0,131,43,practicing equestrianism,19229,0
+27696,0.85,9.15,113,39,meowing,24117,0
+6169,0.0,10.0,108,38,playing fingerstyle guitar,5344,0
+15763,0.0,10.0,352,78,performing traditional Chinese opera,13723,0
+5294,0.0,10.0,81,27,playing erhu,4567,0
+6726,0.0,10.0,341,70,panda eating bamboo,5846,0
+1115,1.87,10.0,348,76,playing piano,932,0
+14507,0.89,10.0,348,76,playing piano,12638,0
+25450,0.0,10.0,78,25,harvesting rice,22161,0
+1323,0.0,10.0,84,28,playing hang (instrument),1118,0
+23232,0.0,10.0,347,75,playing mbira,20221,0
+20713,1.92,10.0,359,81,singing,18006,0
+2534,0.0,10.0,56,16,mixing cement/concrete,2161,0
+26253,0.0,10.0,353,79,watching a concert,22858,0
+22812,0.0,9.51,108,38,playing fingerstyle guitar,19853,0
+22408,0.0,3.0,353,79,watching a concert,19479,0
+10290,0.91,9.09,240,56,laser beam welding,8975,0
+23396,0.0,9.82,19,6,riding a motorcycle (excluding drifting),20363,0
+21220,0.0,10.0,235,55,using a vacuum cleaner,18437,0
+14228,0.33,10.0,388,83,whistling,12399,0
+295,0.0,10.0,307,60,playing tennis,235,0
+20251,0.49,10.0,106,37,playing djembe,17625,0
+12257,0.0,10.0,353,79,watching a concert,10677,0
+8977,0.0,10.0,84,28,playing hang (instrument),7790,0
+24718,0.0,10.0,108,38,playing fingerstyle guitar,21533,0
+23156,0.0,10.0,359,81,singing,20153,0
+13837,0.0,9.97,84,28,playing hang (instrument),12052,0
+18883,0.0,10.0,346,74,playing drum,16415,0
+12147,2.86,7.14,99,32,blowing bubbles,10571,0
+8630,0.0,10.0,84,28,playing hang (instrument),7498,0
+25760,0.0,10.0,397,84,clubbing,22434,0
+8259,4.98,10.0,108,38,playing fingerstyle guitar,7176,0
+8220,0.0,10.0,349,77,playing suona,7141,0
+20158,0.0,10.0,346,74,playing drum,17547,0
+15296,0.0,10.0,319,63,wrestling,13319,0
+16585,0.0,10.0,80,26,water truck sprinkling water,14422,0
+19011,1.84,8.16,203,51,using a sewing machine,16538,0
+5965,0.0,10.0,349,77,playing suona,5169,0
+18958,0.0,10.0,69,20,auto racing,16488,0
+24696,0.0,10.0,14,5,operating a remote control car (excluding drifting/racing),21512,0
+22169,0.0,10.0,353,79,watching a concert,19275,0
+4860,0.0,8.28,133,44,tap dancing,4198,0
+26735,0.59,10.0,359,81,singing,23284,0
+25985,0.0,10.0,397,84,clubbing,22630,0
+16714,0.0,10.0,104,35,fingerboarding,14542,0
+15985,0.0,10.0,342,71,feeding a cat,13906,0
+5970,0.0,10.0,69,20,auto racing,5174,0
+7703,0.0,10.0,359,81,singing,6707,0
+24,0.0,10.0,353,79,watching a concert,22,0
+6759,0.0,10.0,49,12,drifting car,5873,0
+3057,3.25,10.0,49,12,drifting car,2634,0
+5359,0.0,10.0,86,29,playing guzheng,4625,0
+16719,0.0,10.0,349,77,playing suona,14546,0
+20701,0.0,10.0,349,77,playing suona,17995,0
+13078,0.0,10.0,84,28,playing hang (instrument),11395,0
+21237,0.0,10.0,358,80,performing a duet,18450,0
+18023,0.0,10.0,76,23,feeding dogs,15667,0
+3097,0.0,10.0,37,10,laser engraving,2667,0
+2342,0.0,10.0,196,49,Playing the cello,1990,0
+26505,0.0,10.0,10,2,playing ukulele ,23083,0
+6208,0.0,10.0,120,42,playing melodica,5380,0
+11966,0.0,4.07,388,83,whistling,10413,0
+2872,0.64,10.0,348,76,playing piano,2472,0
+21166,0.0,10.0,81,27,playing erhu,18388,0
+15405,0.0,1.99,99,32,blowing bubbles,13422,0
+15528,1.78,10.0,307,60,playing tennis,13527,0
+18543,0.0,10.0,346,74,playing drum,16112,0
+26557,0.0,10.0,106,37,playing djembe,23132,0
+19924,0.0,10.0,306,59,playing volleyball,17340,0
+22973,0.0,8.21,84,28,playing hang (instrument),19992,0
+226,0.0,10.0,69,20,auto racing,181,0
+24693,0.0,10.0,102,34,playing hulusi,21509,0
+19818,0.0,10.0,133,44,tap dancing,17245,0
+14731,0.92,10.0,84,28,playing hang (instrument),12831,0
+17792,0.0,10.0,84,28,playing hang (instrument),15462,0
+15920,0.0,10.0,352,78,performing traditional Chinese opera,13853,0
+7713,2.61,10.0,84,28,playing hang (instrument),6717,0
+25952,0.0,5.45,60,18,using a jack,22603,0
+26160,3.83,5.28,348,76,playing piano,22782,0
+7149,1.99,8.02,99,32,blowing bubbles,6210,0
+26103,0.01,10.0,353,79,watching a concert,22737,0
+28057,0.0,8.63,348,76,playing piano,24437,0
+9916,0.0,10.0,359,81,singing,8641,0
+11679,0.0,10.0,349,77,playing suona,10170,0
+8546,0.0,4.94,37,10,laser engraving,7423,0
+25890,0.0,10.0,81,27,playing erhu,22545,0
+26923,4.09,10.0,76,23,feeding dogs,23439,0
+9790,0.0,10.0,341,70,panda eating bamboo,8523,0
+7586,0.0,10.0,397,84,clubbing,6609,0
+20943,0.0,8.75,388,83,whistling,18206,0
+17087,0.0,10.0,4,0,playing flute ,14845,0
+17208,0.0,10.0,388,83,whistling,14945,0
+22750,0.0,10.0,353,79,watching a concert,19798,0
+17840,0.0,10.0,10,2,playing ukulele ,15505,0
+674,0.0,5.0,52,13,brushing teeth,561,0
+2341,0.0,10.0,196,49,Playing the cello,1989,0
+21615,0.0,9.38,203,51,using a sewing machine,18793,0
+20068,0.0,10.0,108,38,playing fingerstyle guitar,17462,0
+22008,0.0,10.0,10,2,playing ukulele ,19127,0
+19417,0.0,10.0,360,82,shaving head,16900,0
+4661,0.0,10.0,358,80,performing a duet,4026,0
+26629,0.0,10.0,352,78,performing traditional Chinese opera,23190,0
+26972,0.0,10.0,196,49,Playing the cello,23482,0
+1213,6.73,8.05,86,29,playing guzheng,1024,0
+9705,0.0,8.16,360,82,shaving head,8445,0
+18084,3.33,10.0,5,1,playing bamboo flute ,15721,0
+22668,0.0,10.0,118,41,playing harmonica,19720,0
+1805,0.0,10.0,92,30,playing konghou,1520,0
+20878,0.05,10.0,86,29,playing guzheng,18153,0
+27976,0.0,10.0,92,30,playing konghou,24365,0
+27680,0.0,10.0,341,70,panda eating bamboo,24101,0
+8203,0.0,10.0,69,20,auto racing,7124,0
+13370,0.0,3.0,338,69,scratching on a cat scratching board,11644,0
+6496,0.0,10.0,76,23,feeding dogs,5644,0
+16176,0.0,10.0,54,14,cleaning carpet,14071,0
+846,0.0,10.0,54,14,cleaning carpet,706,0
+12117,0.0,10.0,196,49,Playing the cello,10542,0
+20047,0.0,10.0,343,72,plane taking off,17442,0
+9382,0.0,9.77,334,67,shooting with a slingshot,8150,0
+1926,0.01,10.0,348,76,playing piano,1632,0
+26804,0.01,10.0,48,11,flying remote control drone,23338,0
+2502,0.0,9.55,86,29,playing guzheng,2136,0
+23213,0.0,10.0,359,81,singing,20202,0
+15567,0.0,10.0,77,24,having a snowball fight,13564,0
+6997,0.0,10.0,353,79,watching a concert,6073,0
+4067,0.0,10.0,81,27,playing erhu,3495,0
+7123,0.0,10.0,54,14,cleaning carpet,6186,0
+7840,0.0,10.0,81,27,playing erhu,6828,0
+4172,0.0,9.94,113,39,meowing,3590,0
+3081,3.46,6.54,104,35,fingerboarding,2656,0
+23949,0.0,10.0,84,28,playing hang (instrument),20854,0
+16656,0.0,10.0,81,27,playing erhu,14488,0
+2771,0.0,10.0,5,1,playing bamboo flute ,2384,0
+5593,0.0,10.0,92,30,playing konghou,4829,0
+4570,0.0,10.0,346,74,playing drum,3936,0
+10071,0.0,10.0,352,78,performing traditional Chinese opera,8778,0
+8225,0.0,10.0,388,83,whistling,7146,0
+6920,0.0,10.0,353,79,watching a concert,6006,0
+8161,0.0,10.0,81,27,playing erhu,7096,0
+13917,1.9,10.0,84,28,playing hang (instrument),12121,0
+14485,0.0,8.4,113,39,meowing,12620,0
+5378,0.0,10.0,108,38,playing fingerstyle guitar,4644,0
+21410,0.0,10.0,118,41,playing harmonica,18609,0
+17927,0.01,10.0,4,0,playing flute ,15584,0
+24279,0.0,10.0,343,72,plane taking off,21143,0
+4683,0.0,10.0,358,80,performing a duet,4047,0
+13448,0.0,10.0,358,80,performing a duet,11714,0
+21133,4.72,10.0,312,62,playing badminton,18357,0
+7040,0.0,10.0,92,30,playing konghou,6113,0
+16978,0.0,3.0,334,67,shooting with a slingshot,14755,0
+24599,0.0,10.0,307,60,playing tennis,21429,0
+19938,2.81,7.2,199,50,arc welding,17352,0
+5510,2.25,10.0,20,7,cutting with a circular saw,4761,0
+22656,0.0,10.0,353,79,watching a concert,19708,0
+13754,0.0,10.0,108,38,playing fingerstyle guitar,11980,0
+12729,0.0,10.0,106,37,playing djembe,11092,0
+21189,0.0,10.0,353,79,watching a concert,18409,0
+7648,0.0,10.0,108,38,playing fingerstyle guitar,6663,0
+1882,0.0,10.0,5,1,playing bamboo flute ,1589,0
+3932,1.45,10.0,196,49,Playing the cello,3389,0
+22007,0.25,10.0,10,2,playing ukulele ,19126,0
+11773,0.84,9.16,241,57,moving with forklift,10250,0
+15088,0.0,10.0,108,38,playing fingerstyle guitar,13133,0
+9837,0.0,10.0,148,46,piercing a balloon,8565,0
+17148,0.0,10.0,305,58,playing table tennis,14896,0
+19764,0.0,10.0,360,82,shaving head,17203,0
+21067,0.0,10.0,10,2,playing ukulele ,18310,0
+25461,3.07,6.94,102,34,playing hulusi,22168,0
+26694,4.43,5.58,49,12,drifting car,23246,0
+13103,0.0,10.0,102,34,playing hulusi,11417,0
+17453,0.0,8.12,352,78,performing traditional Chinese opera,15159,0
+564,0.0,10.0,5,1,playing bamboo flute ,473,0
+14469,0.0,10.0,348,76,playing piano,12607,0
+2064,0.68,10.0,86,29,playing guzheng,1751,0
+22057,4.62,10.0,352,78,performing traditional Chinese opera,19170,0
+15518,0.0,10.0,358,80,performing a duet,13521,0
+16038,0.0,10.0,352,78,performing traditional Chinese opera,13955,0
+7918,0.97,9.03,84,28,playing hang (instrument),6894,0
+20060,0.0,10.0,358,80,performing a duet,17455,0
+26477,0.03,1.68,312,62,playing badminton,23060,0
+19188,0.0,10.0,352,78,performing traditional Chinese opera,16689,0
+1362,0.0,10.0,12,3,carving with hand tools,1155,0
+6721,0.0,10.0,92,30,playing konghou,5841,0
+1552,0.0,10.0,10,2,playing ukulele ,1306,0
+6002,0.0,10.0,4,0,playing flute ,5201,0
+12231,3.59,6.41,319,63,wrestling,10651,0
+15556,0.0,10.0,108,38,playing fingerstyle guitar,13553,0
+18849,0.0,10.0,346,74,playing drum,16386,0
+22296,0.0,6.58,352,78,performing traditional Chinese opera,19382,0
+14465,0.0,10.0,93,31,playing guqin,12603,0
+5899,1.76,10.0,235,55,using a vacuum cleaner,5113,0
+3261,0.0,10.0,120,42,playing melodica,2811,0
+2639,0.0,7.91,342,71,feeding a cat,2258,0
+18405,0.53,10.0,81,27,playing erhu,16000,0
+12492,0.0,10.0,359,81,singing,10891,0
+22737,0.0,4.07,108,38,playing fingerstyle guitar,19785,0
+4250,0.0,10.0,353,79,watching a concert,3666,0
+9763,0.0,10.0,116,40,train running,8498,0
+12372,0.01,10.0,353,79,watching a concert,10784,0
+27396,2.63,10.0,319,63,wrestling,23859,0
+21055,0.0,7.19,84,28,playing hang (instrument),18299,0
+10731,0.0,10.0,93,31,playing guqin,9353,0
+16194,0.0,10.0,307,60,playing tennis,14087,0
+7023,0.0,10.0,352,78,performing traditional Chinese opera,6098,0
+7286,0.0,10.0,74,22,milking sheep,6330,0
+12945,0.0,10.0,86,29,playing guzheng,11280,0
+25334,0.0,10.0,108,38,playing fingerstyle guitar,22060,0
+1957,0.0,10.0,86,29,playing guzheng,1661,0
+9928,3.66,10.0,240,56,laser beam welding,8653,0
+21836,2.91,7.46,113,39,meowing,18977,0
+14070,0.0,10.0,359,81,singing,12261,0
+8397,0.0,10.0,353,79,watching a concert,7291,0
+22757,0.0,10.0,92,30,playing konghou,19803,0
+17614,0.0,10.0,349,77,playing suona,15297,0
+24504,0.0,10.0,196,49,Playing the cello,21345,0
+21374,0.0,3.0,86,29,playing guzheng,18580,0
+16316,0.0,10.0,93,31,playing guqin,14181,0
+13273,0.0,10.0,358,80,performing a duet,11557,0
+20998,0.0,10.0,106,37,playing djembe,18253,0
+15971,0.0,9.45,343,72,plane taking off,13899,0
+26262,0.0,3.23,348,76,playing piano,22862,0
+20014,0.0,9.99,349,77,playing suona,17417,0
+25108,0.0,9.97,120,42,playing melodica,21874,0
+14678,0.0,10.0,81,27,playing erhu,12786,0
+15935,0.0,10.0,84,28,playing hang (instrument),13867,0
+13425,0.0,10.0,69,20,auto racing,11694,0
+26625,0.0,10.0,352,78,performing traditional Chinese opera,23186,0
+5793,0.0,10.0,118,41,playing harmonica,5014,0
+17874,2.02,7.98,398,85,setting off fireworks and firecrackers,15537,0
+2535,0.0,10.0,56,16,mixing cement/concrete,2162,0
+1507,0.01,10.0,93,31,playing guqin,1276,0
+6625,0.0,10.0,228,52,mowing a lawn,5755,0
+12362,0.0,10.0,108,38,playing fingerstyle guitar,10775,0
+25586,7.06,10.0,347,75,playing mbira,22278,0
+21058,0.0,10.0,116,40,train running,18302,0
+5819,0.0,10.0,20,7,cutting with a circular saw,5039,0
+12990,4.05,5.95,148,46,piercing a balloon,11324,0
+21889,0.67,9.34,349,77,playing suona,19022,0
+2599,0.0,10.0,344,73,launching a racket,2220,0
+27575,0.0,9.29,84,28,playing hang (instrument),24010,0
+20519,0.0,10.0,310,61,skateboarding,17840,0
+19644,0.0,10.0,353,79,watching a concert,17102,0
+19056,0.0,10.0,348,76,playing piano,16572,0
+13440,1.17,10.0,228,52,mowing a lawn,11707,0
+12608,0.0,10.0,108,38,playing fingerstyle guitar,10988,0
+542,0.79,10.0,5,1,playing bamboo flute ,452,0
+6682,0.0,9.98,106,37,playing djembe,5809,0
+1677,0.0,10.0,118,41,playing harmonica,1402,0
+25428,2.48,7.52,333,66,practicing archery,22141,0
+21588,0.0,10.0,102,34,playing hulusi,18767,0
+17685,0.0,10.0,353,79,watching a concert,15364,0
+20300,0.0,10.0,353,79,watching a concert,17672,0
+260,2.92,10.0,78,25,harvesting rice,208,0
+18228,1.02,10.0,120,42,playing melodica,15846,0
+15411,0.01,10.0,352,78,performing traditional Chinese opera,13428,0
+5166,0.0,10.0,102,34,playing hulusi,4465,0
+3030,0.0,10.0,86,29,playing guzheng,2609,0
+14643,3.81,10.0,310,61,skateboarding,12755,0
+20926,0.0,10.0,343,72,plane taking off,18190,0
+23172,0.0,10.0,349,77,playing suona,20166,0
+3051,1.37,10.0,92,30,playing konghou,2629,0
+21894,0.0,10.0,81,27,playing erhu,19027,0
+5803,0.0,3.0,398,85,setting off fireworks and firecrackers,5024,0
+21118,0.0,10.0,346,74,playing drum,18345,0
+4596,0.0,10.0,307,60,playing tennis,3961,0
+7046,3.44,10.0,84,28,playing hang (instrument),6118,0
+18931,0.0,10.0,346,74,playing drum,16462,0
+24462,6.68,10.0,61,19,using a hammer,21304,0
+8731,0.0,10.0,12,3,carving with hand tools,7584,0
+1262,2.03,10.0,231,53,cleaning with a robot vacuum,1065,0
+9980,0.0,7.82,116,40,train running,8698,0
+15737,0.0,10.0,353,79,watching a concert,13699,0
+17593,0.0,10.0,343,72,plane taking off,15279,0
+12450,3.08,10.0,81,27,playing erhu,10858,0
+13183,0.0,10.0,319,63,wrestling,11488,0
+18852,0.0,10.0,346,74,playing drum,16389,0
+6213,0.0,10.0,358,80,performing a duet,5385,0
+7302,0.0,10.0,93,31,playing guqin,6346,0
+17034,0.0,10.0,84,28,playing hang (instrument),14805,0
+10966,0.02,10.0,100,33,carving wood,9559,0
+25762,0.0,10.0,349,77,playing suona,22436,0
+1148,0.0,10.0,349,77,playing suona,964,0
+8895,0.0,10.0,81,27,playing erhu,7723,0
+3883,0.0,10.0,348,76,playing piano,3350,0
+24792,0.0,10.0,348,76,playing piano,21594,0
+21324,0.0,10.0,12,3,carving with hand tools,18535,0
+3802,0.0,10.0,84,28,playing hang (instrument),3283,0
+1077,0.48,10.0,347,75,playing mbira,899,0
+12120,0.0,10.0,196,49,Playing the cello,10545,0
+6253,0.0,5.48,341,70,panda eating bamboo,5422,0
+26098,0.0,10.0,133,44,tap dancing,22735,0
+27801,0.0,10.0,13,4,twisting balloons,24208,0
+9343,0.0,10.0,108,38,playing fingerstyle guitar,8114,0
+1279,0.0,10.0,93,31,playing guqin,1079,0
+25738,0.0,10.0,81,27,playing erhu,22414,0
+16033,0.02,10.0,106,37,playing djembe,13950,0
+12100,0.0,6.17,203,51,using a sewing machine,10527,0
+7032,0.0,10.0,359,81,singing,6107,0
+20127,0.0,10.0,352,78,performing traditional Chinese opera,17518,0
+23526,0.18,3.28,69,20,auto racing,20480,0
+7943,0.0,10.0,397,84,clubbing,6915,0
+10142,3.55,6.45,322,64,boxing,8844,0
+22195,0.0,10.0,106,37,playing djembe,19301,0
+26873,0.0,10.0,397,84,clubbing,23400,0
+15172,0.0,10.0,108,38,playing fingerstyle guitar,13208,0
+10120,0.0,10.0,54,14,cleaning carpet,8822,0
+336,0.0,10.0,346,74,playing drum,270,0
+19087,1.01,10.0,228,52,mowing a lawn,16602,0
+13840,0.0,10.0,86,29,playing guzheng,12055,0
+9876,0.0,10.0,84,28,playing hang (instrument),8602,0
+8229,1.66,10.0,84,28,playing hang (instrument),7148,0
+21358,0.0,10.0,86,29,playing guzheng,18564,0
+13359,0.0,9.96,388,83,whistling,11634,0
+23245,0.0,10.0,349,77,playing suona,20233,0
+24230,1.39,10.0,86,29,playing guzheng,21100,0
+20612,0.0,10.0,5,1,playing bamboo flute ,17924,0
+19053,0.0,10.0,102,34,playing hulusi,16569,0
+11533,1.99,10.0,360,82,shaving head,10043,0
+3704,0.0,6.92,84,28,playing hang (instrument),3195,0
+14752,0.0,10.0,307,60,playing tennis,12849,0
+23657,0.01,10.0,86,29,playing guzheng,20590,0
+20130,0.0,10.0,352,78,performing traditional Chinese opera,17521,0
+26026,4.16,10.0,342,71,feeding a cat,22668,0
+21433,3.0,10.0,71,21,freeskating,18632,0
+10408,0.0,10.0,307,60,playing tennis,9074,0
+27871,0.01,10.0,310,61,skateboarding,24269,0
+19727,0.0,9.98,84,28,playing hang (instrument),17174,0
+8246,0.0,10.0,353,79,watching a concert,7163,0
+26615,0.0,10.0,81,27,playing erhu,23176,0
+19831,0.0,3.21,60,18,using a jack,17258,0
+15869,0.0,10.0,84,28,playing hang (instrument),13818,0
+9403,0.22,9.79,312,62,playing badminton,8169,0
+16801,0.0,10.0,349,77,playing suona,14619,0
+9237,1.29,10.0,307,60,playing tennis,8028,0
+16001,0.0,10.0,199,50,arc welding,13921,0
+20448,0.0,10.0,349,77,playing suona,17793,0
+23294,0.0,10.0,102,34,playing hulusi,20276,0
+18088,0.0,10.0,352,78,performing traditional Chinese opera,15725,0
+455,0.0,8.26,319,63,wrestling,372,0
+11287,0.0,5.94,199,50,arc welding,9828,0
+11745,0.0,8.71,348,76,playing piano,10232,0
+27509,0.0,9.0,19,6,riding a motorcycle (excluding drifting),23957,0
+9482,0.0,10.0,108,38,playing fingerstyle guitar,8238,0
+17566,0.0,10.0,102,34,playing hulusi,15255,0
+8659,0.0,8.75,133,44,tap dancing,7523,0
+7774,2.33,7.68,341,70,panda eating bamboo,6767,0
+19561,4.18,10.0,307,60,playing tennis,17027,0
+12856,0.0,10.0,346,74,playing drum,11205,0
+25323,0.39,2.06,105,36,using a massage gun,22051,0
+15804,0.0,10.0,81,27,playing erhu,13756,0
+25320,0.0,10.0,84,28,playing hang (instrument),22048,0
+10129,0.0,10.0,93,31,playing guqin,8831,0
+17347,0.0,10.0,133,44,tap dancing,15065,0
+18296,0.0,10.0,84,28,playing hang (instrument),15899,0
+223,0.0,10.0,69,20,auto racing,178,0
+26420,0.0,10.0,358,80,performing a duet,23015,0
+16008,0.0,10.0,352,78,performing traditional Chinese opera,13928,0
+6120,0.0,10.0,108,38,playing fingerstyle guitar,5297,0
+24626,0.01,1.04,60,18,using a jack,21450,0
+16300,0.0,10.0,4,0,playing flute ,14172,0
+2447,0.04,10.0,74,22,milking sheep,2085,0
+13376,0.0,10.0,310,61,skateboarding,11649,0
+26587,0.0,9.99,108,38,playing fingerstyle guitar,23154,0
+27656,0.02,10.0,342,71,feeding a cat,24078,0
+19094,0.0,10.0,108,38,playing fingerstyle guitar,16608,0
+15037,0.0,10.0,388,83,whistling,13093,0
+4598,0.0,10.0,346,74,playing drum,3963,0
+8919,0.0,9.99,4,0,playing flute ,7740,0
+22577,0.0,7.39,12,3,carving with hand tools,19633,0
+272,3.01,7.0,61,19,using a hammer,219,0
+6992,1.0,10.0,359,81,singing,6069,0
+11798,0.0,10.0,12,3,carving with hand tools,10270,0
+12256,0.0,10.0,353,79,watching a concert,10676,0
+8863,0.0,10.0,352,78,performing traditional Chinese opera,7696,0
+26074,0.01,5.07,312,62,playing badminton,22715,0
+16971,0.0,10.0,348,76,playing piano,14753,0
+24329,0.0,10.0,344,73,launching a racket,21192,0
+26897,0.01,5.58,310,61,skateboarding,23419,0
+14942,0.0,10.0,84,28,playing hang (instrument),13011,0
+11887,0.0,9.88,359,81,singing,10347,0
+22257,0.0,10.0,86,29,playing guzheng,19352,0
+21332,0.0,10.0,12,3,carving with hand tools,18542,0
+2751,0.0,10.0,196,49,Playing the cello,2364,0
+28043,0.0,10.0,347,75,playing mbira,24424,0
+6510,0.0,10.0,86,29,playing guzheng,5658,0
+10806,0.48,5.8,113,39,meowing,9422,0
+16228,0.0,6.61,398,85,setting off fireworks and firecrackers,14114,0
+24664,0.0,3.0,397,84,clubbing,21484,0
+2008,4.75,10.0,359,81,singing,1705,0
+12154,0.0,9.99,398,85,setting off fireworks and firecrackers,10576,0
+23476,3.16,10.0,348,76,playing piano,20437,0
+11045,0.02,10.0,116,40,train running,9628,0
+20871,0.0,1.41,12,3,carving with hand tools,18147,0
+14699,0.0,10.0,81,27,playing erhu,12802,0
+1421,2.3,7.7,199,50,arc welding,1208,0
+22519,0.9,10.0,86,29,playing guzheng,19579,0
+19722,0.0,10.0,116,40,train running,17170,0
+13621,0.0,10.0,349,77,playing suona,11860,0
+7465,0.0,10.0,348,76,playing piano,6502,0
+9993,0.0,10.0,93,31,playing guqin,8710,0
+24773,0.0,10.0,84,28,playing hang (instrument),21577,0
+15500,0.0,10.0,359,81,singing,13503,0
+11431,0.0,10.0,349,77,playing suona,9955,0
+9326,0.0,10.0,92,30,playing konghou,8100,0
+18836,0.0,10.0,4,0,playing flute ,16373,0
+22528,0.45,10.0,341,70,panda eating bamboo,19588,0
+9172,0.0,10.0,5,1,playing bamboo flute ,7971,0
+9768,0.0,10.0,118,41,playing harmonica,8503,0
+13397,0.0,10.0,358,80,performing a duet,11670,0
+6168,0.0,10.0,108,38,playing fingerstyle guitar,5343,0
+16002,0.0,8.22,199,50,arc welding,13922,0
+22565,0.0,10.0,349,77,playing suona,19624,0
+13586,0.0,10.0,353,79,watching a concert,11833,0
+4410,0.0,10.0,398,85,setting off fireworks and firecrackers,3802,0
+17527,0.0,10.0,359,81,singing,15220,0
+19119,3.55,10.0,228,52,mowing a lawn,16629,0
+7629,0.0,10.0,55,15,deconstructing a building,6645,0
+13398,0.0,10.0,358,80,performing a duet,11671,0
+9682,0.0,10.0,4,0,playing flute ,8425,0
+21673,0.0,10.0,13,4,twisting balloons,18837,0
+12122,0.0,10.0,5,1,playing bamboo flute ,10547,0
+14985,4.2,10.0,118,41,playing harmonica,13046,0
+8110,0.0,10.0,86,29,playing guzheng,7049,0
+13516,0.0,10.0,84,28,playing hang (instrument),11769,0
+1351,0.0,9.05,48,11,flying remote control drone,1146,0
+7815,0.0,10.0,359,81,singing,6803,0
+27146,3.34,6.66,104,35,fingerboarding,23638,0
+8394,3.22,6.78,148,46,piercing a balloon,7288,0
+22154,0.0,10.0,352,78,performing traditional Chinese opera,19260,0
+15024,0.0,10.0,108,38,playing fingerstyle guitar,13083,0
+16655,0.0,10.0,81,27,playing erhu,14487,0
+8566,0.0,10.0,347,75,playing mbira,7441,0
+22852,0.0,10.0,228,52,mowing a lawn,19885,0
+24451,0.0,10.0,343,72,plane taking off,21298,0
+17970,0.0,10.0,348,76,playing piano,15615,0
+18258,0.0,10.0,397,84,clubbing,15871,0
+23046,1.42,10.0,349,77,playing suona,20054,0
+21958,0.03,10.0,353,79,watching a concert,19081,0
+6391,0.0,10.0,84,28,playing hang (instrument),5547,0
+23685,0.0,10.0,349,77,playing suona,20613,0
+19028,0.0,10.0,240,56,laser beam welding,16549,0
+7786,3.5,6.5,352,78,performing traditional Chinese opera,6779,0
+1466,0.01,10.0,52,13,brushing teeth,1245,0
+1270,0.0,10.0,358,80,performing a duet,1072,0
+2583,0.0,10.0,4,0,playing flute ,2204,0
+19147,0.0,10.0,388,83,whistling,16653,0
+15459,0.0,10.0,4,0,playing flute ,13472,0
+15071,0.0,10.0,108,38,playing fingerstyle guitar,13117,0
+19407,0.0,10.0,113,39,meowing,16890,0
+14644,0.0,6.19,310,61,skateboarding,12756,0
+7001,0.0,10.0,93,31,playing guqin,6077,0
+21134,0.0,5.28,312,62,playing badminton,18358,0
+2310,0.48,10.0,86,29,playing guzheng,1968,0
+22739,0.0,10.0,55,15,deconstructing a building,19787,0
+22563,0.0,10.0,349,77,playing suona,19622,0
+20754,2.02,10.0,92,30,playing konghou,18043,0
+7934,0.08,9.99,113,39,meowing,6909,0
+19509,0.0,10.0,344,73,launching a racket,16982,0
+14912,0.0,10.0,57,17,scraping putty/cement,12983,0
+23583,1.25,8.75,60,18,using a jack,20528,0
+18828,0.0,10.0,359,81,singing,16369,0
+12353,0.0,10.0,81,27,playing erhu,10766,0
+27566,0.73,10.0,84,28,playing hang (instrument),24004,0
+4573,0.0,10.0,346,74,playing drum,3939,0
+14939,0.0,10.0,54,14,cleaning carpet,13008,0
+26016,0.0,10.0,92,30,playing konghou,22659,0
+8965,0.0,10.0,346,74,playing drum,7779,0
+11116,0.0,9.16,116,40,train running,9687,0
+19726,0.0,10.0,84,28,playing hang (instrument),17173,0
+27461,0.0,10.0,49,12,drifting car,23912,0
+17548,3.18,10.0,102,34,playing hulusi,15240,0
+17193,0.0,2.04,116,40,train running,14931,0
+26810,0.18,10.0,359,81,singing,23344,0
+15082,0.0,10.0,108,38,playing fingerstyle guitar,13127,0
+22152,0.0,10.0,352,78,performing traditional Chinese opera,19258,0
+26589,0.0,10.0,398,85,setting off fireworks and firecrackers,23156,0
+16570,0.74,10.0,334,67,shooting with a slingshot,14409,0
+6040,0.0,10.0,52,13,brushing teeth,5233,0
+22494,0.0,10.0,108,38,playing fingerstyle guitar,19555,0
+10571,0.0,3.0,338,69,scratching on a cat scratching board,9208,0
+2332,0.0,10.0,349,77,playing suona,1983,0
+19084,0.0,10.0,359,81,singing,16599,0
+15357,2.2,7.84,319,63,wrestling,13379,0
+26946,0.0,10.0,10,2,playing ukulele ,23458,0
+16005,1.79,10.0,349,77,playing suona,13925,0
+239,0.86,10.0,10,2,playing ukulele ,194,0
+12973,0.0,9.97,228,52,mowing a lawn,11308,0
+16547,0.0,10.0,348,76,playing piano,14389,0
+19603,0.0,10.0,358,80,performing a duet,17064,0
+23111,1.61,8.39,326,65,diving (sports),20109,0
+10259,0.9,9.11,346,74,playing drum,8947,0
+9814,0.0,10.0,360,82,shaving head,8544,0
+6667,0.0,10.0,353,79,watching a concert,5794,0
+5311,0.0,10.0,397,84,clubbing,4582,0
+15676,0.0,10.0,342,71,feeding a cat,13646,0
+15822,0.0,9.95,108,38,playing fingerstyle guitar,13774,0
+23140,0.0,10.0,55,15,deconstructing a building,20138,0
+22064,7.03,10.0,334,67,shooting with a slingshot,19177,0
+18693,0.0,10.0,349,77,playing suona,16241,0
+22379,3.18,10.0,118,41,playing harmonica,19450,0
+24926,2.09,10.0,120,42,playing melodica,21715,0
+23591,2.31,10.0,199,50,arc welding,20536,0
+24763,0.0,10.0,12,3,carving with hand tools,21567,0
+26006,0.0,10.0,120,42,playing melodica,22651,0
+26565,0.0,10.0,347,75,playing mbira,23139,0
+11210,1.06,10.0,106,37,playing djembe,9762,0
+5617,0.0,10.0,360,82,shaving head,4850,0
+16662,0.0,10.0,10,2,playing ukulele ,14494,0
+9824,3.4,10.0,37,10,laser engraving,8553,0
+10035,0.0,10.0,86,29,playing guzheng,8744,0
+21807,0.0,10.0,10,2,playing ukulele ,18955,0
+20392,3.62,6.38,306,59,playing volleyball,17745,0
+24540,0.01,10.0,352,78,performing traditional Chinese opera,21376,0
+3654,0.0,10.0,353,79,watching a concert,3151,0
+12357,2.18,10.0,102,34,playing hulusi,10770,0
+26502,0.58,9.42,102,34,playing hulusi,23081,0
+19738,0.0,9.97,12,3,carving with hand tools,17184,0
+9137,8.74,9.97,199,50,arc welding,7938,0
+15255,0.0,10.0,81,27,playing erhu,13285,0
+14838,5.01,10.0,349,77,playing suona,12916,0
+3012,0.0,10.0,353,79,watching a concert,2595,0
+2361,0.0,10.0,349,77,playing suona,2008,0
+10574,0.0,10.0,104,35,fingerboarding,9211,0
+13204,0.0,10.0,343,72,plane taking off,11506,0
+21742,7.74,10.0,108,38,playing fingerstyle guitar,18896,0
+1228,0.0,10.0,133,44,tap dancing,1037,0
+11859,0.0,10.0,104,35,fingerboarding,10323,0
+4644,0.0,10.0,133,44,tap dancing,4009,0
+20817,0.0,10.0,106,37,playing djembe,18099,0
+20741,0.0,10.0,344,73,launching a racket,18030,0
+1950,0.0,10.0,78,25,harvesting rice,1654,0
+14875,0.01,10.0,86,29,playing guzheng,12948,0
+2458,0.0,10.0,346,74,playing drum,2096,0
+20946,2.71,10.0,228,52,mowing a lawn,18208,0
+2173,0.01,2.65,203,51,using a sewing machine,1848,0
+11826,0.0,10.0,326,65,diving (sports),10293,0
+1928,0.0,10.0,348,76,playing piano,1634,0
+25348,0.0,10.0,196,49,Playing the cello,22073,0
+14092,0.0,10.0,353,79,watching a concert,12281,0
+19258,0.0,4.75,312,62,playing badminton,16756,0
+25938,0.0,10.0,108,38,playing fingerstyle guitar,22589,0
+25273,0.0,10.0,349,77,playing suona,22007,0
+16055,0.57,9.99,116,40,train running,13967,0
+11872,0.0,10.0,86,29,playing guzheng,10332,0
+17452,0.0,10.0,352,78,performing traditional Chinese opera,15158,0
+16568,0.0,10.0,76,23,feeding dogs,14407,0
+20270,5.36,10.0,349,77,playing suona,17644,0
+6722,0.0,10.0,92,30,playing konghou,5842,0
+9697,7.21,10.0,14,5,operating a remote control car (excluding drifting/racing),8437,0
+8619,0.0,10.0,348,76,playing piano,7489,0
+3328,2.13,7.86,86,29,playing guzheng,2867,0
+24573,5.28,10.0,81,27,playing erhu,21405,0
+18097,0.0,10.0,346,74,playing drum,15734,0
+7054,0.0,10.0,334,67,shooting with a slingshot,6125,0
+13629,0.0,10.0,108,38,playing fingerstyle guitar,11868,0
+15838,0.0,10.0,359,81,singing,13790,0
+14728,0.0,1.44,232,54,cleaning a washing machine,12828,0
+27634,1.97,8.54,104,35,fingerboarding,24059,0
+7824,0.0,10.0,352,78,performing traditional Chinese opera,6812,0
+7413,0.0,10.0,358,80,performing a duet,6451,0
+26412,0.0,10.0,343,72,plane taking off,23007,0
+20489,0.0,10.0,10,2,playing ukulele ,17818,0
+17251,0.0,10.0,359,81,singing,14985,0
+24430,0.0,10.0,359,81,singing,21277,0
+17164,0.0,10.0,359,81,singing,14910,0
+18458,0.0,10.0,359,81,singing,16042,0
+2367,0.0,10.0,352,78,performing traditional Chinese opera,2013,0
+25968,0.0,8.32,12,3,carving with hand tools,22616,0
+22702,0.0,10.0,14,5,operating a remote control car (excluding drifting/racing),19752,0
+4266,0.0,10.0,102,34,playing hulusi,3682,0
+23763,0.0,10.0,12,3,carving with hand tools,20684,0
+5871,8.69,10.0,348,76,playing piano,5086,0
+19430,0.0,10.0,102,34,playing hulusi,16912,0
+4371,0.0,10.0,349,77,playing suona,3767,0
+8314,3.46,6.54,199,50,arc welding,7222,0
+6013,0.0,7.8,49,12,drifting car,5209,0
+211,0.0,5.07,307,60,playing tennis,169,0
+14693,0.0,10.0,359,81,singing,12798,0
+15300,0.0,10.0,319,63,wrestling,13323,0
+15447,0.0,10.0,346,74,playing drum,13460,0
+13306,0.0,8.99,349,77,playing suona,11589,0
+23171,0.0,10.0,349,77,playing suona,20165,0
+26698,0.0,9.11,104,35,fingerboarding,23249,0
+2926,0.35,10.0,84,28,playing hang (instrument),2524,0
+14162,0.0,10.0,108,38,playing fingerstyle guitar,12342,0
+12647,0.0,10.0,81,27,playing erhu,11021,0
+17923,0.0,10.0,349,77,playing suona,15580,0
+20654,0.0,10.0,106,37,playing djembe,17957,0
+22246,0.0,10.0,196,49,Playing the cello,19342,0
+22598,0.0,10.0,196,49,Playing the cello,19654,0
+18264,6.77,10.0,104,35,fingerboarding,15875,0
+20009,0.0,10.0,76,23,feeding dogs,17412,0
+2524,0.0,10.0,349,77,playing suona,2152,0
+8375,0.67,10.0,120,42,playing melodica,7276,0
+5348,0.84,10.0,77,24,having a snowball fight,4617,0
+24420,0.33,10.0,12,3,carving with hand tools,21268,0
+25612,0.0,8.1,80,26,water truck sprinkling water,22303,0
+16998,0.0,3.0,359,81,singing,14775,0
+12300,0.0,10.0,81,27,playing erhu,10718,0
+1361,0.0,10.0,12,3,carving with hand tools,1154,0
+11075,0.0,10.0,307,60,playing tennis,9656,0
+9227,0.0,7.85,81,27,playing erhu,8020,0
+7821,1.81,8.19,116,40,train running,6809,0
+9417,1.19,10.0,99,32,blowing bubbles,8175,0
+15449,0.0,10.0,86,29,playing guzheng,13462,0
+1139,0.0,9.84,358,80,performing a duet,956,0
+18541,0.0,10.0,348,76,playing piano,16110,0
+18241,0.0,10.0,84,28,playing hang (instrument),15858,0
+27881,0.72,10.0,347,75,playing mbira,24277,0
+27031,0.0,10.0,108,38,playing fingerstyle guitar,23539,0
+1125,0.0,10.0,348,76,playing piano,942,0
+13300,1.47,10.0,84,28,playing hang (instrument),11583,0
+26266,0.0,10.0,240,56,laser beam welding,22866,0
+9499,0.0,10.0,102,34,playing hulusi,8253,0
+8875,0.0,10.0,12,3,carving with hand tools,7705,0
+8131,0.0,2.51,100,33,carving wood,7068,0
+15511,0.0,10.0,353,79,watching a concert,13514,0
+18505,0.0,10.0,93,31,playing guqin,16081,0
+14319,0.0,10.0,346,74,playing drum,12482,0
+27219,0.0,10.0,352,78,performing traditional Chinese opera,23701,0
+3491,0.0,10.0,343,72,plane taking off,3018,0
+7571,0.0,10.0,4,0,playing flute ,6596,0
+13268,6.01,10.0,358,80,performing a duet,11553,0
+16405,0.99,10.0,81,27,playing erhu,14259,0
+9460,0.0,10.0,352,78,performing traditional Chinese opera,8217,0
+17457,0.0,10.0,108,38,playing fingerstyle guitar,15163,0
+12185,0.0,10.0,397,84,clubbing,10607,0
+17370,1.42,10.0,349,77,playing suona,15085,0
+1584,1.69,10.0,92,30,playing konghou,1330,0
+16882,4.19,10.0,116,40,train running,14678,0
+2609,0.05,10.0,235,55,using a vacuum cleaner,2229,0
+21954,0.0,10.0,81,27,playing erhu,19077,0
+16175,0.0,10.0,54,14,cleaning carpet,14070,0
+23273,0.0,10.0,92,30,playing konghou,20256,0
+1969,0.0,10.0,346,74,playing drum,1673,0
+23454,0.0,10.0,352,78,performing traditional Chinese opera,20416,0
+15921,0.0,10.0,352,78,performing traditional Chinese opera,13854,0
+21672,0.0,10.0,13,4,twisting balloons,18836,0
+11415,7.02,10.0,102,34,playing hulusi,9943,0
+15266,0.0,10.0,359,81,singing,13294,0
+12686,0.0,3.9,86,29,playing guzheng,11056,0
+16276,0.0,10.0,84,28,playing hang (instrument),14159,0
+24428,0.0,10.0,359,81,singing,21275,0
+18386,0.0,10.0,349,77,playing suona,15982,0
+2698,0.0,10.0,92,30,playing konghou,2315,0
+6511,0.0,9.53,86,29,playing guzheng,5659,0
+7662,0.0,10.0,360,82,shaving head,6677,0
+27730,0.09,10.0,93,31,playing guqin,24148,0
+15879,0.0,9.99,4,0,playing flute ,13828,0
+13534,0.0,10.0,358,80,performing a duet,11785,0
+5361,0.0,10.0,86,29,playing guzheng,4627,0
+17846,0.0,10.0,92,30,playing konghou,15511,0
+2611,0.05,10.0,4,0,playing flute ,2231,0
+12082,0.0,8.27,228,52,mowing a lawn,10514,0
+16303,0.0,10.0,310,61,skateboarding,14175,0
+9022,0.0,10.0,358,80,performing a duet,7830,0
+16827,0.0,10.0,353,79,watching a concert,14642,0
+14991,0.0,10.0,349,77,playing suona,13052,0
+24057,0.0,10.0,349,77,playing suona,20946,0
+17531,0.0,10.0,80,26,water truck sprinkling water,15223,0
+27371,2.61,10.0,10,2,playing ukulele ,23836,0
+5673,0.0,10.0,84,28,playing hang (instrument),4902,0
+22817,8.0,9.99,54,14,cleaning carpet,19856,0
+11906,0.0,10.0,344,73,launching a racket,10362,0
+1921,0.0,10.0,353,79,watching a concert,1627,0
+4905,0.0,10.0,84,28,playing hang (instrument),4240,0
+16032,0.0,10.0,344,73,launching a racket,13949,0
+16370,0.0,10.0,397,84,clubbing,14230,0
+1509,0.0,10.0,93,31,playing guqin,1278,0
+18570,2.98,10.0,349,77,playing suona,16129,0
+25167,0.0,10.0,81,27,playing erhu,21928,0
+24304,0.0,9.29,347,75,playing mbira,21168,0
+20611,0.0,10.0,388,83,whistling,17923,0
+17991,0.0,10.0,358,80,performing a duet,15636,0
+15019,0.0,10.0,108,38,playing fingerstyle guitar,13078,0
+19933,0.0,10.0,108,38,playing fingerstyle guitar,17348,0
+7466,0.0,10.0,348,76,playing piano,6503,0
+8641,0.0,10.0,106,37,playing djembe,7506,0
+26063,0.0,10.0,10,2,playing ukulele ,22704,0
+15258,3.76,10.0,4,0,playing flute ,13288,0
+16651,0.0,10.0,106,37,playing djembe,14483,0
+13247,1.54,10.0,349,77,playing suona,11534,0
+24010,0.0,5.32,99,32,blowing bubbles,20908,0
+7204,0.0,9.39,86,29,playing guzheng,6262,0
+19844,0.04,2.64,203,51,using a sewing machine,17270,0
+4944,0.0,10.0,108,38,playing fingerstyle guitar,4275,0
+20351,0.0,3.0,337,68,raining,17711,0
+14998,0.91,10.0,81,27,playing erhu,13059,0
+18409,0.0,10.0,349,77,playing suona,16004,0
+27293,0.02,10.0,84,28,playing hang (instrument),23759,0
+23531,3.98,6.02,60,18,using a jack,20484,0
+18353,0.0,10.0,346,74,playing drum,15952,0
+13045,0.0,10.0,4,0,playing flute ,11363,0
+23451,0.0,10.0,360,82,shaving head,20413,0
+10053,0.0,10.0,397,84,clubbing,8760,0
+24046,0.0,10.0,32,8,washing car ,20935,0
+25321,0.0,10.0,84,28,playing hang (instrument),22049,0
+2989,0.0,10.0,116,40,train running,2578,0
+20989,0.0,10.0,347,75,playing mbira,18244,0
+26515,2.01,10.0,349,77,playing suona,23092,0
+21173,0.0,10.0,358,80,performing a duet,18394,0
+25556,5.17,10.0,235,55,using a vacuum cleaner,22252,0
+366,0.0,10.0,346,74,playing drum,294,0
+9315,0.0,10.0,108,38,playing fingerstyle guitar,8089,0
+15315,1.13,10.0,93,31,playing guqin,13338,0
+9598,0.0,10.0,359,81,singing,8348,0
+25153,0.22,10.0,347,75,playing mbira,21916,0
+8516,0.0,10.0,349,77,playing suona,7396,0
+22584,0.0,10.0,10,2,playing ukulele ,19640,0
+15117,0.0,8.69,347,75,playing mbira,13162,0
+2188,0.0,2.49,307,60,playing tennis,1862,0
+19627,0.0,10.0,360,82,shaving head,17086,0
+1146,8.25,10.0,349,77,playing suona,962,0
+7170,0.0,10.0,108,38,playing fingerstyle guitar,6229,0
+7452,0.0,10.0,92,30,playing konghou,6489,0
+18085,0.0,10.0,5,1,playing bamboo flute ,15722,0
+10757,0.0,10.0,108,38,playing fingerstyle guitar,9379,0
+21658,0.0,10.0,108,38,playing fingerstyle guitar,18830,0
+10437,0.0,10.0,108,38,playing fingerstyle guitar,9102,0
+17697,1.54,10.0,102,34,playing hulusi,15375,0
+16695,0.0,10.0,118,41,playing harmonica,14524,0
+10328,2.24,10.0,349,77,playing suona,9004,0
+13187,1.23,10.0,359,81,singing,11491,0
+18517,0.0,9.22,108,38,playing fingerstyle guitar,16093,0
+20182,0.0,10.0,108,38,playing fingerstyle guitar,17571,0
+23460,0.0,10.0,359,81,singing,20422,0
+2123,0.0,10.0,196,49,Playing the cello,1804,0
+7158,0.36,10.0,56,16,mixing cement/concrete,6219,0
+24717,0.0,10.0,108,38,playing fingerstyle guitar,21532,0
+25735,1.4,10.0,81,27,playing erhu,22411,0
+24302,0.0,10.0,347,75,playing mbira,21166,0
+15286,0.0,10.0,388,83,whistling,13313,0
+9319,1.47,10.0,342,71,feeding a cat,8093,0
+17285,0.0,10.0,108,38,playing fingerstyle guitar,15010,0
+5992,0.0,10.0,12,3,carving with hand tools,5196,0
+3752,0.0,10.0,322,64,boxing,3240,0
+2699,0.0,10.0,92,30,playing konghou,2316,0
+17781,0.0,8.94,235,55,using a vacuum cleaner,15453,0
+11607,0.0,10.0,12,3,carving with hand tools,10106,0
+14448,4.48,10.0,77,24,having a snowball fight,12586,0
+13827,0.0,10.0,19,6,riding a motorcycle (excluding drifting),12043,0
+24469,0.1,10.0,397,84,clubbing,21311,0
+25361,4.09,10.0,349,77,playing suona,22083,0
+20298,0.0,10.0,346,74,playing drum,17670,0
+4353,0.0,10.0,106,37,playing djembe,3751,0
+1062,0.0,10.0,353,79,watching a concert,885,0
+18535,0.0,10.0,358,80,performing a duet,16106,0
+21671,0.0,10.0,13,4,twisting balloons,18835,0
+20898,1.79,10.0,346,74,playing drum,18170,0
+133,0.49,10.0,10,2,playing ukulele ,107,0
+4276,0.0,10.0,343,72,plane taking off,3692,0
+1951,0.0,10.0,196,49,Playing the cello,1655,0
+17505,0.0,10.0,54,14,cleaning carpet,15205,0
+25000,0.0,10.0,353,79,watching a concert,21780,0
+21478,0.0,10.0,84,28,playing hang (instrument),18673,0
+5494,0.0,10.0,306,59,playing volleyball,4747,0
+11729,0.0,10.0,199,50,arc welding,10217,0
+7486,0.0,10.0,116,40,train running,6522,0
+22671,0.0,10.0,12,3,carving with hand tools,19723,0
+6718,0.0,10.0,349,77,playing suona,5838,0
+14400,0.0,10.0,118,41,playing harmonica,12543,0
+9880,1.14,10.0,319,63,wrestling,8606,0
+26885,2.9,10.0,108,38,playing fingerstyle guitar,23409,0
+3357,0.0,10.0,306,59,playing volleyball,2894,0
+15671,0.0,10.0,352,78,performing traditional Chinese opera,13641,0
+4290,3.88,10.0,388,83,whistling,3703,0
+25531,0.01,10.0,92,30,playing konghou,22228,0
+7047,0.0,10.0,84,28,playing hang (instrument),6119,0
+20968,0.0,10.0,358,80,performing a duet,18230,0
+21987,0.0,10.0,240,56,laser beam welding,19108,0
+22960,0.0,10.0,104,35,fingerboarding,19980,0
+17654,0.0,7.93,358,80,performing a duet,15333,0
+8604,3.66,8.08,99,32,blowing bubbles,7475,0
+21998,0.0,10.0,353,79,watching a concert,19117,0
+22360,0.0,10.0,349,77,playing suona,19436,0
+19395,0.0,10.0,349,77,playing suona,16881,0
+13485,0.0,10.0,307,60,playing tennis,11742,0
+2048,0.0,10.0,346,74,playing drum,1742,0
+23686,0.0,10.0,349,77,playing suona,20614,0
+1487,0.01,10.0,77,24,having a snowball fight,1258,0
+21775,0.0,6.53,388,83,whistling,18924,0
+15079,0.32,10.0,359,81,singing,13125,0
+4275,0.0,10.0,343,72,plane taking off,3691,0
+7725,0.0,10.0,108,38,playing fingerstyle guitar,6729,0
+26926,0.05,10.0,78,25,harvesting rice,23442,0
+14833,1.01,10.0,84,28,playing hang (instrument),12911,0
+14180,0.0,10.0,108,38,playing fingerstyle guitar,12357,0
+172,0.0,10.0,84,28,playing hang (instrument),139,0
+6083,0.0,10.0,349,77,playing suona,5264,0
+23731,0.0,10.0,86,29,playing guzheng,20656,0
+20958,0.0,10.0,105,36,using a massage gun,18220,0
+14242,0.01,10.0,37,10,laser engraving,12411,0
+9177,0.0,10.0,108,38,playing fingerstyle guitar,7976,0
+27463,6.48,10.0,102,34,playing hulusi,23914,0
+21877,0.0,10.0,349,77,playing suona,19015,0
+13289,0.0,10.0,52,13,brushing teeth,11573,0
+5814,3.18,7.32,199,50,arc welding,5035,0
+22587,0.0,10.0,10,2,playing ukulele ,19643,0
+26410,0.0,10.0,343,72,plane taking off,23005,0
+7591,0.0,10.0,93,31,playing guqin,6613,0
+20436,0.0,10.0,349,77,playing suona,17781,0
+12161,3.01,7.0,232,54,cleaning a washing machine,10583,0
+4309,0.0,10.0,133,44,tap dancing,3721,0
+24871,0.09,10.0,108,38,playing fingerstyle guitar,21667,0
+13293,0.0,10.0,307,60,playing tennis,11577,0
+15775,0.0,10.0,358,80,performing a duet,13735,0
+10372,0.0,10.0,388,83,whistling,9042,0
+543,0.0,10.0,5,1,playing bamboo flute ,453,0
+10250,0.0,10.0,307,60,playing tennis,8938,0
+17802,0.0,10.0,19,6,riding a motorcycle (excluding drifting),15472,0
+2852,0.0,10.0,349,77,playing suona,2452,0
+126,0.0,10.0,235,55,using a vacuum cleaner,102,0
+21242,0.0,10.0,397,84,clubbing,18455,0
+4552,0.0,10.0,56,16,mixing cement/concrete,3919,0
+9562,8.37,10.0,145,45,baby drinking milk,8312,0
+12788,0.0,9.14,118,41,playing harmonica,11145,0
+22118,0.0,10.0,349,77,playing suona,19226,0
+1953,0.0,10.0,196,49,Playing the cello,1657,0
+23338,0.0,10.0,397,84,clubbing,20314,0
+20006,3.1,10.0,346,74,playing drum,17409,0
+6720,0.55,10.0,92,30,playing konghou,5840,0
+3986,2.38,7.62,348,76,playing piano,3427,0
+20169,0.0,10.0,358,80,performing a duet,17558,0
+1873,0.65,10.0,120,42,playing melodica,1580,0
+7880,0.0,10.0,358,80,performing a duet,6859,0
+23129,0.0,10.0,145,45,baby drinking milk,20127,0
+19473,0.0,8.83,196,49,Playing the cello,16949,0
+10160,0.0,10.0,360,82,shaving head,8860,0
+17206,1.25,10.0,388,83,whistling,14943,0
+8543,0.0,10.0,346,74,playing drum,7421,0
+18414,0.0,4.58,349,77,playing suona,16009,0
+9060,0.0,10.0,353,79,watching a concert,7867,0
+17934,1.34,10.0,232,54,cleaning a washing machine,15591,0
+8639,1.64,10.0,106,37,playing djembe,7504,0
+15776,0.0,10.0,358,80,performing a duet,13736,0
+26221,0.0,9.24,349,77,playing suona,22833,0
+22453,0.0,10.0,84,28,playing hang (instrument),19517,0
+20881,0.0,10.0,86,29,playing guzheng,18156,0
+2252,1.26,10.0,388,83,whistling,1920,0
+21708,0.0,3.79,74,22,milking sheep,18864,0
+23950,0.0,10.0,80,26,water truck sprinkling water,20855,0
+9546,0.0,10.0,337,68,raining,8297,0
+25279,0.0,10.0,81,27,playing erhu,22013,0
+5731,3.68,10.0,93,31,playing guqin,4954,0
+12507,0.0,10.0,84,28,playing hang (instrument),10905,0
+9595,0.0,10.0,81,27,playing erhu,8345,0
+25212,0.0,10.0,346,74,playing drum,21960,0
+7404,0.0,10.0,54,14,cleaning carpet,6443,0
+17631,2.84,10.0,108,38,playing fingerstyle guitar,15314,0
+2259,0.0,9.97,86,29,playing guzheng,1926,0
+22330,0.0,10.0,359,81,singing,19414,0
+21419,0.0,10.0,108,38,playing fingerstyle guitar,18618,0
+19109,0.0,7.07,118,41,playing harmonica,16622,0
+7702,3.61,10.0,359,81,singing,6706,0
+23011,0.01,7.39,10,2,playing ukulele ,20022,0
+25996,0.01,10.0,310,61,skateboarding,22641,0
+15764,0.0,10.0,352,78,performing traditional Chinese opera,13724,0
+14223,0.0,10.0,349,77,playing suona,12394,0
+25141,0.0,10.0,349,77,playing suona,21905,0
+23151,0.0,10.0,358,80,performing a duet,20149,0
+12604,0.0,10.0,108,38,playing fingerstyle guitar,10984,0
+16022,0.0,10.0,353,79,watching a concert,13939,0
+24875,0.0,10.0,108,38,playing fingerstyle guitar,21671,0
+614,0.1,9.89,349,77,playing suona,513,0
+843,0.0,10.0,343,72,plane taking off,704,0
+22673,0.0,10.0,12,3,carving with hand tools,19725,0
+22329,0.0,10.0,359,81,singing,19413,0
+6777,0.0,10.0,352,78,performing traditional Chinese opera,5891,0
+9992,0.0,10.0,93,31,playing guqin,8709,0
+10220,0.92,10.0,118,41,playing harmonica,8911,0
+14811,0.0,10.0,116,40,train running,12894,0
+370,3.75,6.26,319,63,wrestling,298,0
+3874,0.0,10.0,92,30,playing konghou,3342,0
+27377,0.0,10.0,353,79,watching a concert,23842,0
+14097,0.53,10.0,81,27,playing erhu,12285,0
+20954,0.0,10.0,352,78,performing traditional Chinese opera,18216,0
+7705,0.0,10.0,359,81,singing,6709,0
+5149,0.0,10.0,353,79,watching a concert,4451,0
+22521,0.0,10.0,86,29,playing guzheng,19581,0
+740,0.0,10.0,84,28,playing hang (instrument),623,0
+7366,0.0,10.0,360,82,shaving head,6406,0
+23299,8.11,10.0,93,31,playing guqin,20281,0
+5711,0.0,10.0,199,50,arc welding,4935,0
+21611,0.0,10.0,203,51,using a sewing machine,18789,0
+23928,0.0,5.12,12,3,carving with hand tools,20838,0
+23475,2.03,7.97,398,85,setting off fireworks and firecrackers,20436,0
+13506,0.0,10.0,342,71,feeding a cat,11760,0
+24392,0.0,10.0,360,82,shaving head,21243,0
+4372,0.0,10.0,349,77,playing suona,3768,0
+21997,0.0,10.0,353,79,watching a concert,19116,0
+15176,0.0,10.0,92,30,playing konghou,13212,0
+6610,0.0,10.0,86,29,playing guzheng,5741,0
+9276,0.0,10.0,196,49,Playing the cello,8056,0
+21970,0.0,9.97,352,78,performing traditional Chinese opera,19092,0
+6688,0.0,5.74,349,77,playing suona,5814,0
+21959,0.03,10.0,360,82,shaving head,19082,0
+6274,0.0,10.0,349,77,playing suona,5441,0
+3524,0.0,10.0,84,28,playing hang (instrument),3039,0
+3102,0.04,10.0,349,77,playing suona,2672,0
+14248,0.0,10.0,353,79,watching a concert,12417,0
+16541,0.0,10.0,108,38,playing fingerstyle guitar,14383,0
+20806,0.0,10.0,307,60,playing tennis,18088,0
+11999,0.0,10.0,108,38,playing fingerstyle guitar,10444,0
+14067,0.0,10.0,359,81,singing,12258,0
+14314,0.0,10.0,93,31,playing guqin,12477,0
+16803,0.0,10.0,349,77,playing suona,14621,0
+15040,0.02,10.0,116,40,train running,13096,0
+16057,2.45,10.0,108,38,playing fingerstyle guitar,13968,0
+12198,0.0,10.0,305,58,playing table tennis,10618,0
+18454,0.0,10.0,343,72,plane taking off,16038,0
+4411,0.0,10.0,398,85,setting off fireworks and firecrackers,3803,0
+3489,0.0,10.0,343,72,plane taking off,3016,0
+24864,0.0,10.0,397,84,clubbing,21660,0
+1247,3.76,10.0,102,34,playing hulusi,1052,0
+18410,0.0,10.0,349,77,playing suona,16005,0
+9659,0.0,7.22,145,45,baby drinking milk,8402,0
+16255,0.0,10.0,343,72,plane taking off,14141,0
+3137,0.0,2.74,61,19,using a hammer,2703,0
+8205,0.0,10.0,69,20,auto racing,7126,0
+9831,0.26,10.0,306,59,playing volleyball,8559,0
+26989,0.0,10.0,10,2,playing ukulele ,23498,0
+16301,0.0,10.0,310,61,skateboarding,14173,0
+1913,1.84,10.0,120,42,playing melodica,1619,0
+14532,0.01,8.03,305,58,playing table tennis,12659,0
+15073,0.0,10.0,108,38,playing fingerstyle guitar,13119,0
+23852,0.0,10.0,84,28,playing hang (instrument),20769,0
+10676,1.63,10.0,108,38,playing fingerstyle guitar,9303,0
+6425,0.0,10.0,71,21,freeskating,5578,0
+8403,0.0,10.0,93,31,playing guqin,7296,0
+22390,0.47,10.0,84,28,playing hang (instrument),19461,0
+9082,0.0,10.0,358,80,performing a duet,7887,0
+6187,0.0,10.0,348,76,playing piano,5361,0
+17287,0.0,10.0,108,38,playing fingerstyle guitar,15012,0
+24018,0.01,10.0,92,30,playing konghou,20916,0
+26321,0.0,10.0,346,74,playing drum,22920,0
+175,0.0,10.0,84,28,playing hang (instrument),142,0
+11834,0.0,10.0,80,26,water truck sprinkling water,10300,0
+24974,3.12,6.88,334,67,shooting with a slingshot,21757,0
+4297,0.0,10.0,349,77,playing suona,3710,0
+10224,0.0,10.0,343,72,plane taking off,8915,0
+12152,7.73,10.0,398,85,setting off fireworks and firecrackers,10574,0
+12358,0.0,10.0,102,34,playing hulusi,10771,0
+7293,0.0,10.0,93,31,playing guqin,6337,0
+19424,0.0,10.0,102,34,playing hulusi,16907,0
+23139,0.0,10.0,55,15,deconstructing a building,20137,0
+4378,0.0,10.0,148,46,piercing a balloon,3774,0
+7666,0.0,6.87,312,62,playing badminton,6680,0
+12941,0.01,1.19,60,18,using a jack,11276,0
+21986,2.06,10.0,240,56,laser beam welding,19107,0
+24339,0.01,10.0,76,23,feeding dogs,21200,0
+12543,0.0,10.0,106,37,playing djembe,10936,0
+26460,0.0,10.0,397,84,clubbing,23050,0
+6207,0.0,10.0,120,42,playing melodica,5379,0
+5376,0.0,10.0,93,31,playing guqin,4642,0
+8912,0.0,10.0,80,26,water truck sprinkling water,7735,0
+8483,0.0,10.0,359,81,singing,7366,0
+8869,0.0,10.0,347,75,playing mbira,7702,0
+18851,0.0,10.0,346,74,playing drum,16388,0
+6677,0.0,7.52,228,52,mowing a lawn,5804,0
+23522,0.0,10.0,4,0,playing flute ,20476,0
+13927,0.0,10.0,19,6,riding a motorcycle (excluding drifting),12131,0
+9173,0.0,10.0,5,1,playing bamboo flute ,7972,0
+9381,0.0,10.0,49,12,drifting car,8149,0
+21625,0.0,9.97,93,31,playing guqin,18803,0
+4898,0.0,10.0,81,27,playing erhu,4233,0
+12249,0.0,10.0,116,40,train running,10669,0
+8606,0.0,4.68,358,80,performing a duet,7477,0
+19785,0.0,10.0,353,79,watching a concert,17216,0
+18312,0.0,10.0,93,31,playing guqin,15915,0
+13378,0.94,10.0,93,31,playing guqin,11651,0
+17334,0.0,10.0,397,84,clubbing,15055,0
+2376,0.0,5.04,235,55,using a vacuum cleaner,2022,0
+24539,0.0,10.0,348,76,playing piano,21375,0
+16954,0.65,10.0,337,68,raining,14742,0
+22824,0.0,10.0,388,83,whistling,19863,0
+19568,0.0,10.0,5,1,playing bamboo flute ,17033,0
+14538,0.0,6.85,359,81,singing,12665,0
+26730,0.0,10.0,10,2,playing ukulele ,23279,0
+19551,0.0,10.0,341,70,panda eating bamboo,17020,0
+9722,0.0,10.0,353,79,watching a concert,8462,0
+21249,0.0,10.0,349,77,playing suona,18462,0
+24530,2.2,7.79,199,50,arc welding,21366,0
+24900,0.0,10.0,349,77,playing suona,21693,0
+13427,0.0,9.96,349,77,playing suona,11696,0
+13673,0.0,10.0,120,42,playing melodica,11907,0
+18598,0.0,10.0,346,74,playing drum,16157,0
+9800,0.0,10.0,151,47,harvesting crops by machines,8531,0
+26285,0.0,5.05,60,18,using a jack,22885,0
+24218,2.55,7.45,347,75,playing mbira,21088,0
+845,0.01,10.0,54,14,cleaning carpet,705,0
+1155,4.77,6.26,20,7,cutting with a circular saw,971,0
+11149,0.0,2.22,116,40,train running,9715,0
+8567,0.0,10.0,347,75,playing mbira,7442,0
+19050,0.0,10.0,108,38,playing fingerstyle guitar,16566,0
+3804,1.3,10.0,333,66,practicing archery,3284,0
+19329,4.35,5.64,232,54,cleaning a washing machine,16818,0
+22191,0.6,10.0,349,77,playing suona,19297,0
+4639,0.0,10.0,108,38,playing fingerstyle guitar,4004,0
+16215,1.39,10.0,84,28,playing hang (instrument),14101,0
+10365,0.0,10.0,352,78,performing traditional Chinese opera,9035,0
+8545,0.6,10.0,37,10,laser engraving,7422,0
+7793,2.01,8.0,74,22,milking sheep,6785,0
+13752,0.0,10.0,20,7,cutting with a circular saw,11978,0
+2853,0.0,10.0,349,77,playing suona,2453,0
+22415,0.0,10.0,360,82,shaving head,19485,0
+18128,0.0,10.0,108,38,playing fingerstyle guitar,15763,0
+7636,0.0,10.0,118,41,playing harmonica,6652,0
+562,0.07,10.0,5,1,playing bamboo flute ,471,0
+7346,4.19,10.0,37,10,laser engraving,6386,0
+7993,0.0,9.95,102,34,playing hulusi,6952,0
+19904,0.0,10.0,310,61,skateboarding,17320,0
+26518,0.01,10.0,81,27,playing erhu,23094,0
+13188,0.0,10.0,359,81,singing,11492,0
+26835,0.0,10.0,118,41,playing harmonica,23366,0
+18452,0.0,10.0,341,70,panda eating bamboo,16036,0
+4901,0.0,10.0,81,27,playing erhu,4236,0
+11717,0.0,10.0,32,8,washing car ,10206,0
+2744,0.0,3.2,349,77,playing suona,2357,0
+7932,3.26,9.46,106,37,playing djembe,6907,0
+23410,0.0,10.0,120,42,playing melodica,20377,0
+20054,0.0,10.0,108,38,playing fingerstyle guitar,17449,0
+7329,0.86,10.0,349,77,playing suona,6370,0
+16730,0.0,7.86,228,52,mowing a lawn,14555,0
+23457,0.0,10.0,352,78,performing traditional Chinese opera,20419,0
+7816,0.0,10.0,359,81,singing,6804,0
+24669,0.0,10.0,80,26,water truck sprinkling water,21487,0
+22684,0.0,10.0,118,41,playing harmonica,19735,0
+13998,2.55,7.46,106,37,playing djembe,12197,0
+26481,0.0,10.0,346,74,playing drum,23064,0
+7155,0.92,10.0,92,30,playing konghou,6216,0
+11614,0.0,10.0,343,72,plane taking off,10113,0
+17361,0.0,10.0,106,37,playing djembe,15076,0
+26147,0.0,10.0,305,58,playing table tennis,22770,0
+4648,0.0,10.0,349,77,playing suona,4013,0
+15368,2.12,7.88,334,67,shooting with a slingshot,13390,0
+7174,0.0,10.0,108,38,playing fingerstyle guitar,6233,0
+6630,0.0,10.0,108,38,playing fingerstyle guitar,5760,0
+19483,0.0,10.0,319,63,wrestling,16957,0
+12719,0.0,10.0,84,28,playing hang (instrument),11083,0
+18697,0.0,10.0,92,30,playing konghou,16245,0
+12588,0.0,10.0,131,43,practicing equestrianism,10973,0
+1994,1.2,10.0,359,81,singing,1697,0
+5690,0.0,10.0,102,34,playing hulusi,4918,0
+16014,2.53,10.0,37,10,laser engraving,13932,0
+23395,0.0,10.0,19,6,riding a motorcycle (excluding drifting),20362,0
+14205,0.01,10.0,19,6,riding a motorcycle (excluding drifting),12376,0
+26506,0.0,8.31,10,2,playing ukulele ,23084,0
+8961,0.0,10.0,341,70,panda eating bamboo,7775,0
+13193,0.0,10.0,352,78,performing traditional Chinese opera,11497,0
+19139,0.0,10.0,343,72,plane taking off,16645,0
+10802,0.0,2.81,359,81,singing,9419,0
+11984,0.0,10.0,93,31,playing guqin,10430,0
+26123,0.01,9.9,240,56,laser beam welding,22753,0
+18637,0.0,10.0,120,42,playing melodica,16190,0
+19468,0.0,10.0,196,49,Playing the cello,16944,0
+28041,0.0,10.0,353,79,watching a concert,24422,0
+15460,0.0,10.0,341,70,panda eating bamboo,13473,0
+1059,0.03,10.0,353,79,watching a concert,882,0
+6145,0.0,10.0,358,80,performing a duet,5322,0
+4218,0.0,7.25,49,12,drifting car,3635,0
+26154,0.01,10.0,148,46,piercing a balloon,22776,0
+5517,0.0,10.0,341,70,panda eating bamboo,4766,0
+19173,0.0,10.0,305,58,playing table tennis,16679,0
+6648,0.0,10.0,84,28,playing hang (instrument),5775,0
+22078,0.0,10.0,349,77,playing suona,19188,0
+21177,0.0,10.0,81,27,playing erhu,18398,0
+26728,3.98,6.02,199,50,arc welding,23277,0
+11475,6.04,10.0,10,2,playing ukulele ,9994,0
+17931,0.0,10.0,307,60,playing tennis,15588,0
+19792,6.12,10.0,4,0,playing flute ,17223,0
+3364,0.0,3.0,319,63,wrestling,2901,0
+15857,0.0,10.0,4,0,playing flute ,13807,0
+27286,0.0,10.0,348,76,playing piano,23752,0
+19052,0.0,10.0,102,34,playing hulusi,16568,0
+8440,0.0,10.0,343,72,plane taking off,7330,0
+26987,0.01,6.08,322,64,boxing,23496,0
+871,0.1,10.0,397,84,clubbing,726,0
+18259,0.0,10.0,397,84,clubbing,15872,0
+20401,3.39,6.62,312,62,playing badminton,17753,0
+12811,0.0,10.0,352,78,performing traditional Chinese opera,11166,0
+14600,0.0,10.0,344,73,launching a racket,12723,0
+8153,2.19,10.0,120,42,playing melodica,7088,0
+18106,8.08,10.0,349,77,playing suona,15743,0
+27505,0.0,10.0,10,2,playing ukulele ,23953,0
+12547,0.0,10.0,5,1,playing bamboo flute ,10938,0
+26808,0.0,10.0,118,41,playing harmonica,23342,0
+1586,0.0,9.88,92,30,playing konghou,1332,0
+22240,0.01,10.0,341,70,panda eating bamboo,19336,0
+8063,0.0,9.99,120,42,playing melodica,7007,0
+20157,0.01,10.0,346,74,playing drum,17546,0
+24613,0.0,10.0,5,1,playing bamboo flute ,21438,0
+14234,0.0,10.0,359,81,singing,12404,0
+3260,0.0,10.0,120,42,playing melodica,2810,0
+10034,0.0,10.0,86,29,playing guzheng,8743,0
+18129,0.0,10.0,108,38,playing fingerstyle guitar,15764,0
+11024,0.37,10.0,131,43,practicing equestrianism,9613,0
+4948,0.0,10.0,108,38,playing fingerstyle guitar,4279,0
+27309,7.12,9.99,20,7,cutting with a circular saw,23774,0
+21813,0.65,10.0,10,2,playing ukulele ,18961,0
+24865,3.97,6.79,76,23,feeding dogs,21661,0
+17239,0.0,10.0,5,1,playing bamboo flute ,14973,0
+4427,0.0,10.0,48,11,flying remote control drone,3815,0
+1920,0.0,10.0,353,79,watching a concert,1626,0
+13655,3.66,7.04,86,29,playing guzheng,11890,0
+22185,0.0,8.69,349,77,playing suona,19291,0
+3158,0.77,10.0,348,76,playing piano,2724,0
+2633,0.0,10.0,352,78,performing traditional Chinese opera,2252,0
+20261,2.47,10.0,120,42,playing melodica,17635,0
+26243,0.0,10.0,397,84,clubbing,22851,0
+13165,0.0,10.0,102,34,playing hulusi,11471,0
+1837,0.0,10.0,86,29,playing guzheng,1549,0
+15170,0.0,10.0,108,38,playing fingerstyle guitar,13206,0
+16546,0.0,9.98,108,38,playing fingerstyle guitar,14388,0
+14977,0.0,10.0,93,31,playing guqin,13038,0
+403,0.0,9.25,319,63,wrestling,327,0
+7350,0.0,10.0,5,1,playing bamboo flute ,6390,0
+16623,0.0,3.57,352,78,performing traditional Chinese opera,14457,0
+27990,0.0,9.98,102,34,playing hulusi,24378,0
+5967,0.0,10.0,349,77,playing suona,5171,0
+16407,3.18,6.82,86,29,playing guzheng,14261,0
+26975,0.0,5.16,77,24,having a snowball fight,23485,0
+1915,0.0,10.0,120,42,playing melodica,1621,0
+2216,0.0,9.41,133,44,tap dancing,1887,0
+339,0.0,10.0,346,74,playing drum,273,0
+25319,0.05,10.0,84,28,playing hang (instrument),22047,0
+1916,0.01,10.0,398,85,setting off fireworks and firecrackers,1622,0
+14688,0.0,10.0,312,62,playing badminton,12793,0
+10774,0.91,9.1,104,35,fingerboarding,9394,0
+22877,0.0,10.0,353,79,watching a concert,19908,0
+8822,1.42,10.0,349,77,playing suona,7664,0
+17135,0.0,10.0,353,79,watching a concert,14886,0
+23209,0.0,3.97,305,58,playing table tennis,20199,0
+4544,0.0,10.0,348,76,playing piano,3911,0
+8301,0.0,10.0,307,60,playing tennis,7209,0
+22179,0.0,10.0,349,77,playing suona,19285,0
+1827,0.0,10.0,80,26,water truck sprinkling water,1539,0
+15325,0.0,10.0,54,14,cleaning carpet,13348,0
+20193,0.0,9.72,358,80,performing a duet,17582,0
+5022,0.0,10.0,349,77,playing suona,4347,0
+13330,0.0,10.0,108,38,playing fingerstyle guitar,11609,0
+25585,4.78,10.0,86,29,playing guzheng,22277,0
+7004,0.0,10.0,359,81,singing,6080,0
+22880,0.0,10.0,241,57,moving with forklift,19910,0
+17860,0.0,10.0,106,37,playing djembe,15523,0
+24724,0.0,10.0,92,30,playing konghou,21539,0
+9471,0.0,8.05,228,52,mowing a lawn,8227,0
+11295,0.0,10.0,349,77,playing suona,9836,0
+17795,0.0,10.0,84,28,playing hang (instrument),15465,0
+14119,0.0,1.91,388,83,whistling,12304,0
+25274,0.0,10.0,349,77,playing suona,22008,0
+13488,0.0,10.0,37,10,laser engraving,11745,0
+26959,0.0,9.91,19,6,riding a motorcycle (excluding drifting),23469,0
+12518,0.0,10.0,108,38,playing fingerstyle guitar,10914,0
+16650,0.0,10.0,360,82,shaving head,14482,0
+12371,0.0,10.0,353,79,watching a concert,10783,0
+19542,0.0,10.0,359,81,singing,17012,0
+27264,0.0,10.0,10,2,playing ukulele ,23735,0
+10883,0.0,5.93,228,52,mowing a lawn,9487,0
+3699,0.0,10.0,199,50,arc welding,3190,0
+18783,0.0,10.0,12,3,carving with hand tools,16327,0
+20055,0.0,10.0,108,38,playing fingerstyle guitar,17450,0
+9340,1.5,10.0,108,38,playing fingerstyle guitar,8111,0
+14093,0.0,10.0,235,55,using a vacuum cleaner,12282,0
+25767,1.43,7.09,359,81,singing,22441,0
+26376,0.0,10.0,397,84,clubbing,22972,0
+18707,0.0,10.0,108,38,playing fingerstyle guitar,16255,0
+13089,0.0,10.0,84,28,playing hang (instrument),11405,0
+7809,1.53,5.53,349,77,playing suona,6798,0
+20384,0.0,10.0,106,37,playing djembe,17737,0
+14029,0.0,10.0,108,38,playing fingerstyle guitar,12223,0
+23449,0.0,10.0,360,82,shaving head,20411,0
+19946,0.0,10.0,81,27,playing erhu,17360,0
+26136,0.0,10.0,92,30,playing konghou,22761,0
+6321,0.71,10.0,74,22,milking sheep,5482,0
+20756,0.0,10.0,92,30,playing konghou,18045,0
+4855,0.76,10.0,349,77,playing suona,4193,0
+4637,0.0,10.0,108,38,playing fingerstyle guitar,4002,0
+5751,0.0,9.99,108,38,playing fingerstyle guitar,4974,0
+10013,0.0,10.0,57,17,scraping putty/cement,8723,0
+15188,0.0,10.0,118,41,playing harmonica,13224,0
+27828,0.0,10.0,116,40,train running,24229,0
+9615,0.0,10.0,92,30,playing konghou,8365,0
+6132,0.0,10.0,196,49,Playing the cello,5309,0
+3715,0.0,10.0,349,77,playing suona,3206,0
+6116,0.0,10.0,108,38,playing fingerstyle guitar,5293,0
+22934,2.4,10.0,347,75,playing mbira,19958,0
+14327,0.0,9.99,346,74,playing drum,12490,0
+2167,0.0,10.0,341,70,panda eating bamboo,1843,0
+24581,0.0,10.0,349,77,playing suona,21411,0
+12927,0.0,10.0,353,79,watching a concert,11265,0
+18303,0.0,10.0,93,31,playing guqin,15906,0
+26708,0.0,10.0,108,38,playing fingerstyle guitar,23259,0
+27931,3.11,6.89,104,35,fingerboarding,24324,0
+3893,0.0,10.0,352,78,performing traditional Chinese opera,3357,0
+27706,0.0,10.0,108,38,playing fingerstyle guitar,24127,0
+3544,0.0,10.0,4,0,playing flute ,3057,0
+22125,0.0,10.0,131,43,practicing equestrianism,19232,0
+18283,0.0,10.0,10,2,playing ukulele ,15891,0
+19362,6.39,10.0,199,50,arc welding,16849,0
+21564,0.0,10.0,196,49,Playing the cello,18748,0
+18698,0.0,10.0,92,30,playing konghou,16246,0
+18827,0.0,10.0,358,80,performing a duet,16368,0
+24703,0.01,10.0,228,52,mowing a lawn,21519,0
+14633,0.0,10.0,359,81,singing,12746,0
+8456,3.86,10.0,145,45,baby drinking milk,7343,0
+15428,0.0,10.0,307,60,playing tennis,13444,0
+23857,0.01,3.83,353,79,watching a concert,20774,0
+11928,0.0,10.0,358,80,performing a duet,10379,0
+24241,0.0,10.0,118,41,playing harmonica,21111,0
+18935,0.0,10.0,359,81,singing,16466,0
+1949,0.46,10.0,78,25,harvesting rice,1653,0
+3787,0.0,10.0,353,79,watching a concert,3268,0
+17973,0.0,5.17,145,45,baby drinking milk,15618,0
+12914,0.0,10.0,81,27,playing erhu,11252,0
+572,3.84,10.0,334,67,shooting with a slingshot,481,0
+12952,0.0,10.0,341,70,panda eating bamboo,11287,0
+26277,0.0,10.0,92,30,playing konghou,22877,0
+13709,0.0,10.0,81,27,playing erhu,11937,0
+8372,0.0,10.0,388,83,whistling,7273,0
+26761,0.0,10.0,397,84,clubbing,23305,0
+25842,0.0,10.0,108,38,playing fingerstyle guitar,22502,0
+20616,0.0,10.0,349,77,playing suona,17928,0
+22562,0.0,10.0,349,77,playing suona,19621,0
+27091,1.96,10.0,81,27,playing erhu,23595,0
+21318,0.0,8.29,359,81,singing,18529,0
+23982,0.69,9.31,348,76,playing piano,20886,0
+27172,4.46,5.54,360,82,shaving head,23660,0
+784,5.66,7.11,241,57,moving with forklift,659,0
+12757,1.46,10.0,106,37,playing djembe,11116,0
+1874,0.0,10.0,120,42,playing melodica,1581,0
+17006,0.06,10.0,106,37,playing djembe,14782,0
+14594,0.0,10.0,397,84,clubbing,12718,0
+25844,0.0,10.0,108,38,playing fingerstyle guitar,22504,0
+4072,0.0,10.0,81,27,playing erhu,3497,0
+18495,0.0,10.0,358,80,performing a duet,16071,0
+5162,0.0,10.0,113,39,meowing,4461,0
+23325,0.0,10.0,106,37,playing djembe,20304,0
+16031,0.0,10.0,344,73,launching a racket,13948,0
+22747,0.0,10.0,86,29,playing guzheng,19795,0
+12314,0.0,10.0,341,70,panda eating bamboo,10729,0
+1989,0.03,3.86,312,62,playing badminton,1692,0
+19537,0.0,10.0,348,76,playing piano,17007,0
+7724,0.0,10.0,108,38,playing fingerstyle guitar,6728,0
+4731,0.0,10.0,398,85,setting off fireworks and firecrackers,4086,0
+17407,0.0,10.0,120,42,playing melodica,15115,0
+25250,0.31,10.0,84,28,playing hang (instrument),21986,0
+6878,0.0,10.0,108,38,playing fingerstyle guitar,5971,0
+20795,4.38,10.0,349,77,playing suona,18084,0
+22957,0.46,10.0,93,31,playing guqin,19979,0
+13313,0.0,10.0,346,74,playing drum,11595,0
+19472,0.0,10.0,196,49,Playing the cello,16948,0
+6629,0.0,10.0,108,38,playing fingerstyle guitar,5759,0
+21848,0.0,10.0,20,7,cutting with a circular saw,18989,0
+20233,0.0,10.0,353,79,watching a concert,17613,0
+2494,0.0,6.17,55,15,deconstructing a building,2128,0
+2331,0.0,10.0,349,77,playing suona,1982,0
+22160,0.0,10.0,118,41,playing harmonica,19266,0
+9059,0.0,10.0,353,79,watching a concert,7866,0
+5570,0.65,9.35,349,77,playing suona,4809,0
+16046,0.0,10.0,342,71,feeding a cat,13961,0
+248,0.0,10.0,14,5,operating a remote control car (excluding drifting/racing),199,0
+11743,3.73,6.27,145,45,baby drinking milk,10230,0
+22039,0.0,10.0,349,77,playing suona,19155,0
+26069,0.46,10.0,353,79,watching a concert,22710,0
+25355,0.0,10.0,346,74,playing drum,22080,0
+19051,0.0,10.0,102,34,playing hulusi,16567,0
+24793,0.0,10.0,348,76,playing piano,21595,0
+18544,0.0,10.0,346,74,playing drum,16113,0
+15554,1.81,10.0,108,38,playing fingerstyle guitar,13551,0
+14300,0.0,10.0,307,60,playing tennis,12467,0
+12620,4.08,5.91,199,50,arc welding,10998,0
+1147,0.0,10.0,349,77,playing suona,963,0
+23086,0.0,10.0,84,28,playing hang (instrument),20091,0
+20676,0.0,10.0,93,31,playing guqin,17977,0
+8696,0.0,9.99,113,39,meowing,7554,0
+1929,0.0,7.61,348,76,playing piano,1635,0
+1096,0.0,10.0,92,30,playing konghou,915,0
+958,0.01,10.0,353,79,watching a concert,806,0
+5030,0.0,10.0,106,37,playing djembe,4354,0
+24827,2.55,7.46,37,10,laser engraving,21625,0
+26546,0.0,10.0,359,81,singing,23121,0
+20371,0.0,7.83,306,59,playing volleyball,17727,0
+14341,0.0,10.0,398,85,setting off fireworks and firecrackers,12500,0
+8105,0.0,10.0,108,38,playing fingerstyle guitar,7045,0
+6840,0.0,10.0,86,29,playing guzheng,5939,0
+26776,0.01,10.0,10,2,playing ukulele ,23317,0
+14624,0.0,10.0,342,71,feeding a cat,12737,0
+24834,0.37,10.0,92,30,playing konghou,21632,0
+21229,0.0,6.98,388,83,whistling,18444,0
+7684,0.0,10.0,80,26,water truck sprinkling water,6690,0
+23132,0.0,10.0,346,74,playing drum,20130,0
+1432,0.0,10.0,346,74,playing drum,1219,0
+6402,1.31,10.0,5,1,playing bamboo flute ,5556,0
+8262,0.0,10.0,84,28,playing hang (instrument),7179,0
+2712,0.0,10.0,360,82,shaving head,2328,0
+23923,0.0,10.0,12,3,carving with hand tools,20833,0
+10377,0.0,10.0,148,46,piercing a balloon,9047,0
+2813,0.0,10.0,352,78,performing traditional Chinese opera,2420,0
+16317,0.0,10.0,93,31,playing guqin,14182,0
+7494,0.0,10.0,228,52,mowing a lawn,6529,0
+14578,1.08,10.0,84,28,playing hang (instrument),12702,0
+3726,1.25,8.75,312,62,playing badminton,3217,0
+5613,1.77,9.99,341,70,panda eating bamboo,4846,0
+30,0.0,10.0,232,54,cleaning a washing machine,28,0
+10425,0.0,9.98,349,77,playing suona,9090,0
+10210,0.0,9.19,36,9,modifying car,8901,0
+27593,1.56,8.44,349,77,playing suona,24027,0
+4193,0.0,10.0,353,79,watching a concert,3611,0
+22659,0.94,10.0,113,39,meowing,19711,0
+21960,0.88,10.0,10,2,playing ukulele ,19083,0
+25541,0.0,10.0,108,38,playing fingerstyle guitar,22238,0
+4396,0.0,10.0,14,5,operating a remote control car (excluding drifting/racing),3789,0
+17907,0.02,3.39,307,60,playing tennis,15567,0
+2012,0.0,10.0,84,28,playing hang (instrument),1709,0
+1170,0.0,10.0,358,80,performing a duet,984,0
+16332,0.0,10.0,353,79,watching a concert,14195,0
+24716,0.0,10.0,108,38,playing fingerstyle guitar,21531,0
+23693,0.0,10.0,397,84,clubbing,20620,0
+26839,0.0,10.0,116,40,train running,23370,0
+11756,0.0,10.0,352,78,performing traditional Chinese opera,10236,0
+1732,0.0,10.0,76,23,feeding dogs,1451,0
+15252,0.0,10.0,349,77,playing suona,13282,0
+7135,0.0,10.0,77,24,having a snowball fight,6196,0
+4128,0.0,10.0,342,71,feeding a cat,3551,0
+11026,0.0,10.0,131,43,practicing equestrianism,9615,0
+26840,2.63,7.37,108,38,playing fingerstyle guitar,23371,0
+14911,0.0,10.0,57,17,scraping putty/cement,12982,0
+2723,0.0,10.0,348,76,playing piano,2337,0
+18930,0.0,10.0,346,74,playing drum,16461,0
+26636,7.78,10.0,108,38,playing fingerstyle guitar,23197,0
+10193,0.0,9.82,199,50,arc welding,8887,0
+498,0.01,10.0,353,79,watching a concert,410,0
+16351,0.0,10.0,48,11,flying remote control drone,14213,0
+1142,0.0,10.0,10,2,playing ukulele ,959,0
+12742,0.0,9.94,10,2,playing ukulele ,11102,0
+13364,0.0,10.0,81,27,playing erhu,11639,0
+21395,0.0,10.0,349,77,playing suona,18596,0
+7137,0.0,10.0,77,24,having a snowball fight,6198,0
+2659,0.0,10.0,228,52,mowing a lawn,2277,0
+24128,0.0,10.0,92,30,playing konghou,21010,0
+13770,0.0,10.0,397,84,clubbing,11995,0
+21086,0.0,10.0,344,73,launching a racket,18322,0
+25155,0.0,10.0,347,75,playing mbira,21918,0
+19290,0.0,10.0,86,29,playing guzheng,16781,0
+14700,0.0,10.0,81,27,playing erhu,12803,0
+8278,0.0,9.93,120,42,playing melodica,7192,0
+26726,0.0,10.0,102,34,playing hulusi,23275,0
+16629,0.0,10.0,80,26,water truck sprinkling water,14462,0
+26871,0.0,6.73,13,4,twisting balloons,23398,0
+11718,0.0,10.0,32,8,washing car ,10207,0
+9157,6.35,9.97,312,62,playing badminton,7958,0
+16021,0.0,10.0,353,79,watching a concert,13938,0
+15583,0.0,10.0,106,37,playing djembe,13577,0
+15652,0.0,10.0,349,77,playing suona,13628,0
+27051,3.48,10.0,228,52,mowing a lawn,23558,0
+15020,0.0,10.0,108,38,playing fingerstyle guitar,13079,0
+25587,0.0,9.99,347,75,playing mbira,22279,0
+27622,0.0,10.0,108,38,playing fingerstyle guitar,24049,0
+3816,0.77,10.0,12,3,carving with hand tools,3296,0
+16434,0.0,10.0,353,79,watching a concert,14285,0
+4878,3.09,10.0,398,85,setting off fireworks and firecrackers,4216,0
+20782,3.72,7.35,20,7,cutting with a circular saw,18071,0
+11101,0.0,9.98,388,83,whistling,9673,0
+19753,0.0,10.0,359,81,singing,17192,0
+19487,0.0,9.99,319,63,wrestling,16961,0
+16601,0.0,10.0,92,30,playing konghou,14437,0
+1691,3.91,10.0,102,34,playing hulusi,1416,0
+8052,0.0,10.0,359,81,singing,6997,0
+1652,0.0,10.0,78,25,harvesting rice,1380,0
+13889,0.0,6.35,310,61,skateboarding,12100,0
+26438,0.0,10.0,81,27,playing erhu,23033,0
+16599,0.0,10.0,92,30,playing konghou,14435,0
+24959,0.0,10.0,397,84,clubbing,21744,0
+7175,0.0,10.0,108,38,playing fingerstyle guitar,6234,0
+12043,0.0,10.0,352,78,performing traditional Chinese opera,10480,0
+17408,0.0,10.0,120,42,playing melodica,15116,0
+24027,0.58,10.0,86,29,playing guzheng,20923,0
+11223,8.14,10.0,5,1,playing bamboo flute ,9768,0
+23358,0.0,10.0,349,77,playing suona,20331,0
+24280,0.0,9.99,343,72,plane taking off,21144,0
+15851,0.0,10.0,349,77,playing suona,13802,0
+1495,0.73,10.0,84,28,playing hang (instrument),1264,0
+3071,0.0,10.0,104,35,fingerboarding,2647,0
+11591,4.04,5.96,106,37,playing djembe,10091,0
+24474,3.33,10.0,349,77,playing suona,21316,0
+14496,0.0,10.0,113,39,meowing,12628,0
+12745,0.0,10.0,353,79,watching a concert,11104,0
+19732,0.0,10.0,37,10,laser engraving,17178,0
+8271,0.0,10.0,241,57,moving with forklift,7188,0
+26326,0.0,8.39,86,29,playing guzheng,22925,0
+20640,0.0,10.0,5,1,playing bamboo flute ,17948,0
+6342,1.6,8.4,228,52,mowing a lawn,5502,0
+6979,0.0,10.0,343,72,plane taking off,6056,0
+20432,0.0,10.0,352,78,performing traditional Chinese opera,17777,0
+22802,0.0,10.0,352,78,performing traditional Chinese opera,19844,0
+8304,0.0,9.97,52,13,brushing teeth,7212,0
+11133,0.0,10.0,164,48,jumping rope,9699,0
+15094,0.0,10.0,353,79,watching a concert,13139,0
+11868,0.0,10.0,118,41,playing harmonica,10330,0
+12697,0.0,10.0,93,31,playing guqin,11062,0
+7866,0.0,10.0,343,72,plane taking off,6845,0
+2706,0.0,10.0,92,30,playing konghou,2322,0
+21522,0.0,10.0,241,57,moving with forklift,18708,0
+24929,0.0,10.0,120,42,playing melodica,21718,0
+5802,0.0,10.0,108,38,playing fingerstyle guitar,5023,0
+2891,0.0,10.0,359,81,singing,2490,0
+16818,0.0,10.0,352,78,performing traditional Chinese opera,14634,0
+25369,0.0,10.0,344,73,launching a racket,22091,0
+22140,0.0,10.0,92,30,playing konghou,19247,0
+26537,0.0,10.0,359,81,singing,23112,0
+9162,0.0,10.0,5,1,playing bamboo flute ,7961,0
+27089,0.0,10.0,352,78,performing traditional Chinese opera,23594,0
+20602,3.36,6.64,36,9,modifying car,17914,0
+8518,0.0,10.0,349,77,playing suona,7398,0
+16491,3.08,10.0,4,0,playing flute ,14337,0
+16701,0.0,10.0,352,78,performing traditional Chinese opera,14530,0
+17306,5.81,10.0,349,77,playing suona,15028,0
+4609,0.0,10.0,92,30,playing konghou,3974,0
+23102,0.0,10.0,37,10,laser engraving,20101,0
+11096,0.0,10.0,353,79,watching a concert,9668,0
+2929,0.0,10.0,84,28,playing hang (instrument),2527,0
+1122,0.0,10.0,10,2,playing ukulele ,939,0
+24723,0.25,10.0,92,30,playing konghou,21538,0
+2884,0.0,10.0,359,81,singing,2484,0
+15120,0.32,10.0,93,31,playing guqin,13165,0
+23203,0.0,10.0,352,78,performing traditional Chinese opera,20193,0
+13737,0.0,10.0,20,7,cutting with a circular saw,11964,0
+15774,0.0,3.0,80,26,water truck sprinkling water,13734,0
+17273,0.0,7.35,232,54,cleaning a washing machine,15004,0
+15841,0.0,9.98,359,81,singing,13793,0
+21531,0.0,10.0,84,28,playing hang (instrument),18717,0
+21325,0.0,10.0,12,3,carving with hand tools,18536,0
+24719,0.0,10.0,108,38,playing fingerstyle guitar,21534,0
+16406,0.0,9.0,81,27,playing erhu,14260,0
+10000,0.0,10.0,108,38,playing fingerstyle guitar,8714,0
+19671,0.0,10.0,92,30,playing konghou,17124,0
+6323,0.0,10.0,74,22,milking sheep,5484,0
+24668,7.9,9.99,93,31,playing guqin,21486,0
+21608,0.62,10.0,203,51,using a sewing machine,18786,0
+6180,0.0,10.0,319,63,wrestling,5355,0
+27061,0.0,10.0,347,75,playing mbira,23568,0
+11841,0.0,10.0,84,28,playing hang (instrument),10306,0
+26627,0.0,10.0,352,78,performing traditional Chinese opera,23188,0
+18231,0.0,9.88,120,42,playing melodica,15849,0
+9080,1.84,10.0,358,80,performing a duet,7885,0
+13050,0.0,7.48,196,49,Playing the cello,11367,0
+11951,0.0,10.0,322,64,boxing,10400,0
+4663,0.0,10.0,358,80,performing a duet,4028,0
+6085,0.0,10.0,349,77,playing suona,5266,0
+6554,0.54,10.0,52,13,brushing teeth,5695,0
+27611,1.92,8.08,84,28,playing hang (instrument),24043,0
+22644,0.0,10.0,349,77,playing suona,19696,0
+15538,0.0,7.38,20,7,cutting with a circular saw,13535,0
+18138,0.0,10.0,106,37,playing djembe,15773,0
+27960,0.0,5.15,133,44,tap dancing,24351,0
+25026,0.0,10.0,105,36,using a massage gun,21804,0
+17105,0.0,3.0,307,60,playing tennis,14862,0
+27747,0.0,10.0,116,40,train running,24163,0
+8537,0.0,10.0,60,18,using a jack,7415,0
+6525,0.0,3.79,310,61,skateboarding,5671,0
+19174,0.0,10.0,305,58,playing table tennis,16680,0
+20614,0.0,10.0,5,1,playing bamboo flute ,17926,0
+7785,0.5,9.5,358,80,performing a duet,6778,0
+6679,0.0,10.0,106,37,playing djembe,5806,0
+4451,0.0,10.0,56,16,mixing cement/concrete,3833,0
+10560,0.0,10.0,106,37,playing djembe,9201,0
+4667,0.0,10.0,49,12,drifting car,4032,0
+10447,0.0,10.0,341,70,panda eating bamboo,9111,0
+23908,0.0,10.0,32,8,washing car ,20819,0
+4669,0.0,10.0,49,12,drifting car,4034,0
+134,0.0,10.0,10,2,playing ukulele ,108,0
+20369,0.0,10.0,352,78,performing traditional Chinese opera,17725,0
+1360,0.0,10.0,12,3,carving with hand tools,1153,0
+16254,0.0,10.0,343,72,plane taking off,14140,0
+8762,0.0,8.21,312,62,playing badminton,7611,0
+7649,0.0,10.0,108,38,playing fingerstyle guitar,6664,0
+4684,0.0,10.0,353,79,watching a concert,4048,0
+26843,0.0,10.0,81,27,playing erhu,23373,0
+16172,4.3,10.0,113,39,meowing,14067,0
+11496,0.0,10.0,353,79,watching a concert,10015,0
+13005,0.15,10.0,4,0,playing flute ,11336,0
+11016,0.0,10.0,397,84,clubbing,9606,0
+2600,0.0,9.92,344,73,launching a racket,2221,0
+6737,0.0,10.0,349,77,playing suona,5857,0
+26520,0.0,10.0,81,27,playing erhu,23096,0
+17925,0.0,10.0,359,81,singing,15582,0
+23839,0.0,10.0,12,3,carving with hand tools,20756,0
+9776,3.93,6.07,232,54,cleaning a washing machine,8510,0
+14829,0.0,10.0,349,77,playing suona,12909,0
+26773,0.0,10.0,92,30,playing konghou,23314,0
+5398,0.0,10.0,10,2,playing ukulele ,4661,0
+15453,0.0,10.0,358,80,performing a duet,13466,0
+1927,0.0,10.0,348,76,playing piano,1633,0
+20486,0.0,10.0,92,30,playing konghou,17815,0
+5674,0.0,10.0,84,28,playing hang (instrument),4903,0
+12772,0.0,10.0,92,30,playing konghou,11130,0
+13379,0.0,10.0,93,31,playing guqin,11652,0
+12155,6.58,10.0,56,16,mixing cement/concrete,10577,0
+22205,0.01,10.0,102,34,playing hulusi,19307,0
+20083,0.0,10.0,397,84,clubbing,17475,0
+13848,0.0,10.0,347,75,playing mbira,12063,0
+27907,0.0,10.0,92,30,playing konghou,24301,0
+14834,0.0,10.0,84,28,playing hang (instrument),12912,0
+8158,0.0,10.0,81,27,playing erhu,7093,0
+18906,0.8,10.0,86,29,playing guzheng,16438,0
+12653,0.0,1.14,334,67,shooting with a slingshot,11027,0
+26678,0.0,10.0,118,41,playing harmonica,23231,0
+26633,0.0,10.0,353,79,watching a concert,23194,0
+23477,0.0,10.0,348,76,playing piano,20438,0
+13198,0.0,10.0,84,28,playing hang (instrument),11501,0
+2899,0.01,10.0,349,77,playing suona,2498,0
+3406,0.0,7.81,307,60,playing tennis,2941,0
+14634,0.0,10.0,359,81,singing,12747,0
+1054,0.0,9.99,10,2,playing ukulele ,877,0
+22144,0.0,10.0,92,30,playing konghou,19251,0
+26495,2.13,10.0,359,81,singing,23074,0
+7485,0.0,10.0,116,40,train running,6521,0
+24421,0.0,10.0,12,3,carving with hand tools,21269,0
+18856,0.0,8.05,228,52,mowing a lawn,16393,0
+21947,8.61,10.0,359,81,singing,19070,0
+698,2.85,7.15,61,19,using a hammer,585,0
+17471,4.78,10.0,199,50,arc welding,15177,0
+18824,0.0,10.0,358,80,performing a duet,16365,0
+20034,0.0,10.0,86,29,playing guzheng,17429,0
+26689,0.0,10.0,346,74,playing drum,23242,0
+17872,2.58,7.42,86,29,playing guzheng,15535,0
+21267,3.44,10.0,349,77,playing suona,18480,0
+14753,0.0,10.0,307,60,playing tennis,12850,0
+20848,6.81,10.0,349,77,playing suona,18127,0
+26281,0.33,2.0,388,83,whistling,22881,0
+20499,0.0,9.82,359,81,singing,17825,0
+2747,0.0,10.0,352,78,performing traditional Chinese opera,2360,0
+20949,4.3,10.0,5,1,playing bamboo flute ,18211,0
+7268,0.0,10.0,54,14,cleaning carpet,6318,0
+15654,0.0,10.0,349,77,playing suona,13630,0
+20308,0.0,10.0,99,32,blowing bubbles,17678,0
+23177,1.19,10.0,360,82,shaving head,20170,0
+7539,0.0,5.14,20,7,cutting with a circular saw,6567,0
+9836,0.0,10.0,148,46,piercing a balloon,8564,0
+25016,0.0,10.0,5,1,playing bamboo flute ,21794,0
+4168,0.0,10.0,108,38,playing fingerstyle guitar,3586,0
+11286,0.37,9.63,104,35,fingerboarding,9827,0
+13786,0.0,10.0,347,75,playing mbira,12011,0
+9378,8.01,10.0,49,12,drifting car,8146,0
+18358,0.0,10.0,358,80,performing a duet,15957,0
+7653,0.2,10.0,358,80,performing a duet,6668,0
+26370,2.69,10.0,92,30,playing konghou,22966,0
+25841,0.0,10.0,108,38,playing fingerstyle guitar,22501,0
+16683,0.0,10.0,116,40,train running,14514,0
+303,3.78,10.0,312,62,playing badminton,242,0
+5492,2.27,10.0,348,76,playing piano,4745,0
+23018,0.27,10.0,10,2,playing ukulele ,20029,0

@@ -1,0 +1,123 @@
+category_name,sample_id,onset,offset,old_index,haveBGM
+playing harmonica,23402,1,9,118,1
+playing fingerstyle guitar,18656,3,10,108,1
+playing fingerstyle guitar,18657,0,10,108,1
+cutting with a circular saw,130,0,8,20,1
+cutting with a circular saw,713,1,10,20,1
+cutting with a circular saw,913,0,6,20,1
+cutting with a circular saw,20668,2,10,20,1
+cutting with a circular saw,4783,0,10,20,1
+cutting with a circular saw,3425,3,7,20,1
+cutting with a circular saw,4886,2,8,20,1
+cutting with a circular saw,20862,0,10,20,1
+cutting with a circular saw,26766,0,10,20,1
+cutting with a circular saw,12710,4,6,20,1
+cutting with a circular saw,15144,0,9,20,1
+cutting with a circular saw,4847,0,4,20,1
+cutting with a circular saw,18859,0,10,20,1
+cutting with a circular saw,7503,0,10,20,1
+cutting with a circular saw,1066,1,9,20,1
+cutting with a circular saw,15143,1,10,20,1
+cutting with a circular saw,19864,4,10,20,1
+cutting with a circular saw,11427,4,6,20,1
+cutting with a circular saw,129,0,10,20,1
+cutting with a circular saw,26969,0,6,20,1
+cutting with a circular saw,4816,0,10,20,1
+cutting with a circular saw,8064,1,9,20,1
+cutting with a circular saw,5532,0,10,20,1
+playing flute,1869,0,10,4,1
+playing flute,3275,0,10,4,1
+playing flute,434,0,10,4,1
+playing flute,2624,0,10,4,1
+playing flute,3276,0,10,4,1
+playing flute,6400,0,10,4,1
+playing flute,1,0,10,4,1
+playing flute,2435,3,10,4,1
+playing flute,431,0,10,4,1
+playing flute,3813,1,10,4,1
+playing flute,2780,0,10,4,1
+playing flute,3482,0,10,4,1
+playing flute,24448,0,10,4,1
+flying remote control drone,2876,0,10,48,1
+flying remote control drone,5020,0,7,48,1
+flying remote control drone,1773,2,8,48,1
+flying remote control drone,20621,0,10,48,1
+flying remote control drone,5622,0,10,48,1
+flying remote control drone,1746,0,10,48,1
+flying remote control drone,7779,3,7,48,1
+flying remote control drone,13068,0,3,48,1
+flying remote control drone,17476,0,10,48,1
+flying remote control drone,3448,0,10,48,1
+flying remote control drone,3532,0,10,48,1
+flying remote control drone,23049,0,10,48,1
+flying remote control drone,15598,0,10,48,1
+flying remote control drone,1744,0,10,48,1
+flying remote control drone,5868,0,10,48,1
+flying remote control drone,25126,4,10,48,1
+flying remote control drone,21217,0,7,48,1
+flying remote control drone,18099,0,7,48,1
+flying remote control drone,10317,0,10,48,1
+flying remote control drone,18098,3,10,48,1
+flying remote control drone,3692,1,9,48,1
+flying remote control drone,5869,0,10,48,1
+flying remote control drone,10146,0,5,48,1
+flying remote control drone,2098,4,6,48,1
+flying remote control drone,26397,0,10,48,1
+flying remote control drone,20239,0,3,48,1
+flying remote control drone,1654,0,10,48,1
+flying remote control drone,11386,0,9,48,1
+flying remote control drone,8003,0,7,48,1
+riding a motorcycle (excluding drifting),381,3,10,19,1
+riding a motorcycle (excluding drifting),21036,3,10,19,1
+riding a motorcycle (excluding drifting),12554,0,10,19,1
+riding a motorcycle (excluding drifting),6744,0,10,19,1
+riding a motorcycle (excluding drifting),5754,0,10,19,1
+riding a motorcycle (excluding drifting),27164,0,10,19,1
+riding a motorcycle (excluding drifting),4955,0,3,19,1
+riding a motorcycle (excluding drifting),27037,0,10,19,1
+riding a motorcycle (excluding drifting),15656,0,10,19,1
+riding a motorcycle (excluding drifting),20302,4,10,19,1
+riding a motorcycle (excluding drifting),25421,0,10,19,1
+riding a motorcycle (excluding drifting),4063,0,9,19,1
+riding a motorcycle (excluding drifting),10516,4,10,19,1
+riding a motorcycle (excluding drifting),13787,0,10,19,1
+riding a motorcycle (excluding drifting),5790,0,10,19,1
+auto racing,2290,0,10,69,1
+auto racing,1469,0,5,69,1
+auto racing,22581,0,10,69,1
+auto racing,21028,0,10,69,1
+auto racing,28024,0,10,69,1
+auto racing,12234,3,10,69,1
+auto racing,8365,0,10,69,1
+auto racing,18970,0,6,69,1
+auto racing,27744,0,10,69,1
+auto racing,8565,1,9,69,1
+auto racing,1467,5,10,69,1
+auto racing,19294,0,10,69,1
+auto racing,6009,0,10,69,1
+auto racing,19502,0,10,69,1
+auto racing,23469,4,10,69,1
+auto racing,18943,0,10,69,1
+auto racing,8924,0,3,69,1
+auto racing,14709,0,10,69,1
+auto racing,7002,0,10,69,1
+auto racing,20991,2,8,69,1
+train running,23487,0,10,116,1
+train running,14615,0,10,116,1
+train running,19701,0,10,116,1
+train running,17342,0,10,116,1
+train running,20110,0,10,116,1
+train running,23489,0,4,116,1
+train running,26945,0,10,116,1
+train running,27045,0,10,116,1
+train running,14865,0,3,116,1
+train running,3145,0,10,116,1
+train running,9892,0,10,116,1
+train running,16968,0,10,116,1
+train running,4576,0,10,116,1
+train running,19702,0,10,116,1
+train running,22826,0,10,116,1
+train running,4577,0,10,116,1
+playing ukulele,27469,0,10,10,1
+playing ukulele,24805,0,10,10,1
+playing ukulele,22452,0,10,10,1

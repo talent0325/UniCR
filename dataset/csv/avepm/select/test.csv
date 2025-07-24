@@ -1,0 +1,312 @@
+category_name,sample_id,onset,offset,old_index
+playing harmonica,15410,0,10,118
+playing harmonica,7261,0,3,118
+playing harmonica,26303,4,10,118
+playing harmonica,11488,0,10,118
+playing harmonica,21501,0,10,118
+playing harmonica,23240,0,10,118
+playing harmonica,23402,1,9,118
+playing harmonica,11085,4,8,118
+playing harmonica,1194,0,10,118
+playing harmonica,9066,0,10,118
+playing harmonica,10221,0,10,118
+playing harmonica,21410,0,10,118
+playing harmonica,7530,0,10,118
+playing harmonica,26207,0,10,118
+playing harmonica,8075,0,10,118
+playing harmonica,7528,0,10,118
+playing harmonica,21500,0,10,118
+playing harmonica,21308,0,10,118
+playing harmonica,9067,0,5,118
+playing harmonica,8737,0,10,118
+playing harmonica,6691,0,10,118
+playing harmonica,26305,0,10,118
+playing harmonica,8237,0,8,118
+playing harmonica,23979,0,10,118
+playing harmonica,15189,0,10,118
+playing harmonica,21304,1,10,118
+playing harmonica,3823,0,10,118
+playing harmonica,9639,4,10,118
+playing harmonica,6891,6,10,118
+playing harmonica,12574,0,10,118
+playing harmonica,24002,0,10,118
+playing harmonica,17820,0,10,118
+playing fingerstyle guitar,19002,0,10,108
+playing fingerstyle guitar,26254,7,10,108
+playing fingerstyle guitar,22812,0,10,108
+playing fingerstyle guitar,15556,0,10,108
+playing fingerstyle guitar,9481,0,10,108
+playing fingerstyle guitar,12002,0,8,108
+playing fingerstyle guitar,26584,0,10,108
+playing fingerstyle guitar,5378,0,10,108
+playing fingerstyle guitar,21418,0,10,108
+playing fingerstyle guitar,15168,0,10,108
+playing fingerstyle guitar,22494,0,10,108
+playing fingerstyle guitar,27034,0,10,108
+playing fingerstyle guitar,12610,0,10,108
+playing fingerstyle guitar,18999,0,10,108
+playing fingerstyle guitar,27537,0,10,108
+playing fingerstyle guitar,18656,3,10,108
+playing fingerstyle guitar,25541,0,10,108
+playing fingerstyle guitar,10978,0,10,108
+playing fingerstyle guitar,22132,0,10,108
+playing fingerstyle guitar,15553,0,8,108
+playing fingerstyle guitar,15833,0,10,108
+playing fingerstyle guitar,20181,0,10,108
+playing fingerstyle guitar,16508,2,10,108
+playing fingerstyle guitar,7649,0,10,108
+playing fingerstyle guitar,19034,0,10,108
+playing fingerstyle guitar,4948,0,10,108
+playing fingerstyle guitar,18657,0,10,108
+playing fingerstyle guitar,27623,0,10,108
+playing fingerstyle guitar,26215,0,10,108
+playing fingerstyle guitar,16542,0,10,108
+playing fingerstyle guitar,6879,0,10,108
+playing fingerstyle guitar,27701,0,10,108
+playing fingerstyle guitar,24687,0,10,108
+playing fingerstyle guitar,27032,0,10,108
+playing fingerstyle guitar,15086,0,10,108
+playing fingerstyle guitar,9692,0,10,108
+playing fingerstyle guitar,12233,0,10,108
+playing fingerstyle guitar,26621,0,10,108
+meowing,26568,4,6,113
+meowing,12711,1,9,113
+meowing,14496,0,10,113
+meowing,22719,0,10,113
+meowing,7910,3,7,113
+meowing,25806,7,10,113
+meowing,16728,3,10,113
+meowing,4172,0,10,113
+meowing,27144,3,7,113
+meowing,22718,1,10,113
+meowing,25054,0,2,113
+meowing,10999,0,10,113
+cutting with a circular saw,130,0,8,20
+cutting with a circular saw,13752,0,10,20
+cutting with a circular saw,713,1,10,20
+cutting with a circular saw,913,0,6,20
+cutting with a circular saw,20668,2,10,20
+cutting with a circular saw,4783,0,10,20
+cutting with a circular saw,3425,3,7,20
+cutting with a circular saw,4886,2,8,20
+cutting with a circular saw,20862,0,10,20
+cutting with a circular saw,11072,0,10,20
+cutting with a circular saw,26766,0,10,20
+cutting with a circular saw,12710,4,6,20
+cutting with a circular saw,1311,1,9,20
+cutting with a circular saw,15144,0,9,20
+cutting with a circular saw,5819,0,10,20
+cutting with a circular saw,4847,0,4,20
+cutting with a circular saw,18859,0,10,20
+cutting with a circular saw,7503,0,10,20
+cutting with a circular saw,5818,0,10,20
+cutting with a circular saw,19767,3,10,20
+cutting with a circular saw,13737,0,10,20
+cutting with a circular saw,1066,1,9,20
+cutting with a circular saw,15143,1,10,20
+cutting with a circular saw,16578,0,10,20
+cutting with a circular saw,19864,4,10,20
+cutting with a circular saw,11427,4,6,20
+cutting with a circular saw,129,0,10,20
+cutting with a circular saw,26969,0,6,20
+cutting with a circular saw,4816,0,10,20
+cutting with a circular saw,8064,1,9,20
+cutting with a circular saw,20768,0,3,20
+cutting with a circular saw,5532,0,10,20
+playing flute,1869,0,10,4
+playing flute,19796,0,10,4
+playing flute,13006,0,10,4
+playing flute,3275,0,10,4
+playing flute,17929,0,10,4
+playing flute,434,0,10,4
+playing flute,15602,0,10,4
+playing flute,2624,0,10,4
+playing flute,3276,0,10,4
+playing flute,16491,3,10,4
+playing flute,23234,0,10,4
+playing flute,13896,0,10,4
+playing flute,6400,0,10,4
+playing flute,19792,6,10,4
+playing flute,9742,3,10,4
+playing flute,1,0,10,4
+playing flute,18585,0,10,4
+playing flute,13898,0,10,4
+playing flute,3913,0,10,4
+playing flute,10073,8,10,4
+playing flute,2435,3,10,4
+playing flute,14591,2,10,4
+playing flute,11142,0,10,4
+playing flute,431,0,10,4
+playing flute,12932,3,10,4
+playing flute,3813,1,10,4
+playing flute,7310,0,10,4
+playing flute,2780,0,10,4
+playing flute,19795,0,10,4
+playing flute,18525,0,10,4
+playing flute,3482,0,10,4
+playing flute,22526,0,5,4
+playing flute,17927,0,10,4
+playing flute,18524,0,10,4
+playing flute,24448,0,10,4
+flying remote control drone,2876,0,10,48
+flying remote control drone,5020,0,7,48
+flying remote control drone,9039,0,10,48
+flying remote control drone,26107,0,10,48
+flying remote control drone,1773,2,8,48
+flying remote control drone,20621,0,10,48
+flying remote control drone,5622,0,10,48
+flying remote control drone,1746,0,10,48
+flying remote control drone,7779,3,7,48
+flying remote control drone,13068,0,3,48
+flying remote control drone,17476,0,10,48
+flying remote control drone,3448,0,10,48
+flying remote control drone,3532,0,10,48
+flying remote control drone,23049,0,10,48
+flying remote control drone,15598,0,10,48
+flying remote control drone,18221,0,3,48
+flying remote control drone,1744,0,10,48
+flying remote control drone,5868,0,10,48
+flying remote control drone,25126,4,10,48
+flying remote control drone,21217,0,7,48
+flying remote control drone,18099,0,7,48
+flying remote control drone,10317,0,10,48
+flying remote control drone,18098,3,10,48
+flying remote control drone,3692,1,9,48
+flying remote control drone,5869,0,10,48
+flying remote control drone,10146,0,5,48
+flying remote control drone,18753,0,10,48
+flying remote control drone,2098,4,6,48
+flying remote control drone,26397,0,10,48
+flying remote control drone,20239,0,3,48
+flying remote control drone,1749,0,10,48
+flying remote control drone,9038,0,10,48
+flying remote control drone,1654,0,10,48
+flying remote control drone,11386,0,9,48
+flying remote control drone,8003,0,7,48
+flying remote control drone,26108,0,7,48
+flying remote control drone,25926,0,10,48
+riding a motorcycle (excluding drifting),381,3,10,19
+riding a motorcycle (excluding drifting),21036,3,10,19
+riding a motorcycle (excluding drifting),12554,0,10,19
+riding a motorcycle (excluding drifting),6744,0,10,19
+riding a motorcycle (excluding drifting),5754,0,10,19
+riding a motorcycle (excluding drifting),27164,0,10,19
+riding a motorcycle (excluding drifting),4955,0,3,19
+riding a motorcycle (excluding drifting),27037,0,10,19
+riding a motorcycle (excluding drifting),13927,0,10,19
+riding a motorcycle (excluding drifting),4422,4,6,19
+riding a motorcycle (excluding drifting),23395,0,10,19
+riding a motorcycle (excluding drifting),15656,0,10,19
+riding a motorcycle (excluding drifting),20302,4,10,19
+riding a motorcycle (excluding drifting),25421,0,10,19
+riding a motorcycle (excluding drifting),4063,0,9,19
+riding a motorcycle (excluding drifting),27650,0,10,19
+riding a motorcycle (excluding drifting),10516,4,10,19
+riding a motorcycle (excluding drifting),13787,0,10,19
+riding a motorcycle (excluding drifting),13827,0,10,19
+riding a motorcycle (excluding drifting),5790,0,10,19
+riding a motorcycle (excluding drifting),17799,0,10,19
+auto racing,2290,0,10,69
+auto racing,1469,0,5,69
+auto racing,7386,0,10,69
+auto racing,1604,0,10,69
+auto racing,18804,0,10,69
+auto racing,13345,0,10,69
+auto racing,18960,0,10,69
+auto racing,22581,0,10,69
+auto racing,18483,0,10,69
+auto racing,21028,0,10,69
+auto racing,28024,0,10,69
+auto racing,12234,3,10,69
+auto racing,227,0,10,69
+auto racing,8365,0,10,69
+auto racing,18970,0,6,69
+auto racing,27744,0,10,69
+auto racing,3774,0,10,69
+auto racing,21793,0,10,69
+auto racing,8565,1,9,69
+auto racing,1467,5,10,69
+auto racing,19294,0,10,69
+auto racing,5970,0,10,69
+auto racing,6009,0,10,69
+auto racing,24467,1,10,69
+auto racing,19502,0,10,69
+auto racing,23469,4,10,69
+auto racing,18943,0,10,69
+auto racing,13443,0,10,69
+auto racing,5969,0,10,69
+auto racing,8924,0,3,69
+auto racing,14709,0,10,69
+auto racing,18802,0,10,69
+auto racing,7002,0,10,69
+auto racing,5143,1,10,69
+auto racing,20991,2,8,69
+train running,23487,0,10,116
+train running,14615,0,10,116
+train running,19701,0,10,116
+train running,14812,0,10,116
+train running,14451,0,10,116
+train running,17342,0,10,116
+train running,20110,0,10,116
+train running,27747,0,10,116
+train running,11207,0,10,116
+train running,23489,0,4,116
+train running,26945,0,10,116
+train running,20038,0,10,116
+train running,27045,0,10,116
+train running,14865,0,3,116
+train running,11114,0,10,116
+train running,16681,0,10,116
+train running,7486,0,10,116
+train running,11045,0,10,116
+train running,16683,0,10,116
+train running,16055,1,10,116
+train running,3145,0,10,116
+train running,9892,0,10,116
+train running,18398,0,10,116
+train running,27261,0,10,116
+train running,7485,0,10,116
+train running,26836,0,10,116
+train running,16968,0,10,116
+train running,16692,0,10,116
+train running,4576,0,10,116
+train running,19702,0,10,116
+train running,14561,0,10,116
+train running,14255,0,10,116
+train running,22826,0,10,116
+train running,21462,0,10,116
+train running,4577,0,10,116
+train running,12474,0,10,116
+playing ukulele,2708,1,6,10
+playing ukulele,13704,0,10,10
+playing ukulele,1780,0,10,10
+playing ukulele,1553,0,10,10
+playing ukulele,26729,0,10,10
+playing ukulele,21377,0,10,10
+playing ukulele,13513,0,10,10
+playing ukulele,1053,0,10,10
+playing ukulele,27214,0,10,10
+playing ukulele,27469,0,10,10
+playing ukulele,26504,2,10,10
+playing ukulele,24750,2,6,10
+playing ukulele,19572,0,10,10
+playing ukulele,22187,0,10,10
+playing ukulele,538,0,10,10
+playing ukulele,25576,0,10,10
+playing ukulele,20413,0,10,10
+playing ukulele,26733,0,1,10
+playing ukulele,5397,3,10,10
+playing ukulele,24805,0,10,10
+playing ukulele,21403,0,10,10
+playing ukulele,12041,2,8,10
+playing ukulele,13025,7,10,10
+playing ukulele,23579,0,9,10
+playing ukulele,27373,0,10,10
+playing ukulele,11475,6,10,10
+playing ukulele,13702,0,10,10
+playing ukulele,21627,0,10,10
+playing ukulele,22452,0,10,10
+playing ukulele,3612,0,10,10
+playing ukulele,20887,6,10,10
+playing ukulele,17840,0,10,10
+playing ukulele,26506,0,8,10

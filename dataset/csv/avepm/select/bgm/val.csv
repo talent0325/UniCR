@@ -1,0 +1,149 @@
+category_name,sample_id,onset,offset,old_index
+playing harmonica,21386,0,10,118
+playing harmonica,12577,0,10,118
+playing harmonica,7695,0,10,118
+playing harmonica,1985,0,10,118
+playing harmonica,6893,0,7,118
+playing harmonica,19334,0,10,118
+playing harmonica,22380,0,10,118
+playing harmonica,23869,0,10,118
+playing harmonica,23597,0,10,118
+playing harmonica,26809,0,8,118
+playing harmonica,8074,0,10,118
+playing harmonica,12130,0,10,118
+playing harmonica,1193,0,10,118
+playing harmonica,26681,0,10,118
+playing harmonica,26679,0,10,118
+playing fingerstyle guitar,18706,0,10,108
+playing fingerstyle guitar,20067,3,10,108
+playing fingerstyle guitar,17458,0,10,108
+playing fingerstyle guitar,21943,0,10,108
+playing fingerstyle guitar,14161,0,10,108
+playing fingerstyle guitar,13331,0,10,108
+playing fingerstyle guitar,6120,0,10,108
+playing fingerstyle guitar,25938,0,10,108
+playing fingerstyle guitar,17286,0,10,108
+playing fingerstyle guitar,18114,0,10,108
+playing fingerstyle guitar,27705,0,10,108
+playing fingerstyle guitar,21281,0,10,108
+playing fingerstyle guitar,16130,0,10,108
+playing fingerstyle guitar,24686,0,10,108
+playing fingerstyle guitar,15087,0,10,108
+playing fingerstyle guitar,7720,0,10,108
+playing fingerstyle guitar,5747,0,10,108
+playing fingerstyle guitar,10533,0,10,108
+meowing,26367,4,5,113
+meowing,27625,1,5,113
+meowing,14683,2,10,113
+meowing,17214,1,10,113
+meowing,22659,1,10,113
+meowing,23680,3,7,113
+cutting with a circular saw,9492,0,10,20
+cutting with a circular saw,18538,0,10,20
+cutting with a circular saw,7146,3,10,20
+cutting with a circular saw,4815,0,10,20
+cutting with a circular saw,7147,0,10,20
+cutting with a circular saw,21342,3,10,20
+cutting with a circular saw,583,0,10,20
+cutting with a circular saw,22275,1,9,20
+cutting with a circular saw,4846,0,10,20
+cutting with a circular saw,13977,0,10,20
+cutting with a circular saw,20402,5,10,20
+cutting with a circular saw,144,0,6,20
+cutting with a circular saw,13738,0,10,20
+cutting with a circular saw,26917,0,8,20
+cutting with a circular saw,20131,6,10,20
+cutting with a circular saw,18247,0,10,20
+playing flute,1702,0,10,4
+playing flute,15473,3,10,4
+playing flute,2612,0,10,4
+playing flute,3541,0,10,4
+playing flute,3542,0,10,4
+playing flute,13960,0,10,4
+playing flute,3911,0,10,4
+playing flute,23519,0,10,4
+playing flute,6486,0,10,4
+playing flute,15857,0,10,4
+playing flute,7396,0,10,4
+playing flute,3829,0,10,4
+playing flute,1861,5,10,4
+playing flute,18910,0,10,4
+playing flute,15032,0,10,4
+playing flute,23522,0,10,4
+playing flute,1820,0,10,4
+flying remote control drone,47,0,7,48
+flying remote control drone,24169,0,10,48
+flying remote control drone,16525,3,7,48
+flying remote control drone,1351,0,9,48
+flying remote control drone,10646,0,10,48
+flying remote control drone,24708,0,10,48
+flying remote control drone,10880,0,7,48
+flying remote control drone,22862,4,10,48
+flying remote control drone,23000,0,10,48
+flying remote control drone,25925,0,10,48
+flying remote control drone,21260,0,9,48
+flying remote control drone,3447,0,10,48
+flying remote control drone,20199,0,10,48
+flying remote control drone,15273,3,10,48
+flying remote control drone,22863,0,6,48
+flying remote control drone,18711,0,10,48
+flying remote control drone,5019,3,10,48
+riding a motorcycle (excluding drifting),10994,1,10,19
+riding a motorcycle (excluding drifting),27643,0,9,19
+riding a motorcycle (excluding drifting),25090,0,6,19
+riding a motorcycle (excluding drifting),4062,0,10,19
+riding a motorcycle (excluding drifting),10455,2,7,19
+riding a motorcycle (excluding drifting),4605,5,10,19
+riding a motorcycle (excluding drifting),10028,0,8,19
+riding a motorcycle (excluding drifting),17244,0,10,19
+riding a motorcycle (excluding drifting),23394,0,10,19
+auto racing,27676,0,10,69
+auto racing,13135,0,10,69
+auto racing,238,0,10,69
+auto racing,2288,0,10,69
+auto racing,18484,0,10,69
+auto racing,17443,0,10,69
+auto racing,15545,0,10,69
+auto racing,1468,0,10,69
+auto racing,6010,0,10,69
+auto racing,16212,0,10,69
+auto racing,16213,0,10,69
+auto racing,27675,0,10,69
+auto racing,22616,0,7,69
+auto racing,17444,0,10,69
+auto racing,219,0,10,69
+auto racing,1542,0,10,69
+auto racing,3773,0,10,69
+train running,14254,0,10,116
+train running,19070,0,10,116
+train running,8211,0,10,116
+train running,14810,0,10,116
+train running,14253,0,10,116
+train running,7071,0,10,116
+train running,23486,0,10,116
+train running,12635,0,10,116
+train running,14338,0,10,116
+train running,10934,0,7,116
+train running,7488,0,10,116
+train running,14152,0,10,116
+train running,15041,0,10,116
+train running,26194,0,10,116
+train running,25649,0,10,116
+train running,19707,0,10,116
+train running,753,0,10,116
+playing ukulele,27371,3,10,10
+playing ukulele,27506,0,10,10
+playing ukulele,20630,4,10,10
+playing ukulele,21404,0,10,10
+playing ukulele,20412,0,10,10
+playing ukulele,21378,0,10,10
+playing ukulele,25443,0,10,10
+playing ukulele,18884,0,10,10
+playing ukulele,2949,7,10,10
+playing ukulele,17094,0,10,10
+playing ukulele,26338,1,10,10
+playing ukulele,18281,0,10,10
+playing ukulele,21810,0,10,10
+playing ukulele,134,0,10,10
+playing ukulele,7388,6,10,10
+playing ukulele,27551,4,10,10
