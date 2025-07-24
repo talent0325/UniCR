@@ -44,22 +44,6 @@ bash scripts_helper/run_preprocess.sh
 
 Customize the parameters in the `.sh` files as needed. Alternative feature extraction methods may be used.
 
-
-🎞️ **Video Frames & Audio Extraction for LAVISH**
-
-For LAVISH model training, extract video frames and raw audio into respective directories:
-
-```python
-python /LAVISH/scripts/extract_frames.py --out_dir /dataset/data/video_frames/ --video_dir dataset/data/videos/
-python /LAVISH/scripts/extract_audio.py --video_pth dataset/data/videos/ --save_pth dataset/data/raw_audios
-```
-
-Output locations:
-- Frames → `/dataset/data/video_frames/`
-- Audios → `/dataset/data/raw_audios/`
-  
-
-
 ### 📂 Directory Structure
 
 ```graphql
