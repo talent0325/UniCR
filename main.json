@@ -1,0 +1,16 @@
+{
+  "model": {
+    "name": "supv_main_model",
+    "video_inputdim": 512,
+    "audio_inputdim": 128,
+    "d_model": 256,
+    "alpha": 0.1,
+    "gamma": 0.3,
+    "beta": 0.4,
+    "psai": 0.3,
+    "num_classes": 10,
+    "category_num": 86,
+    "guide": "audio"
+  }
+
+}

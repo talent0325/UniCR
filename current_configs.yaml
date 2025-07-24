@@ -1,0 +1,16 @@
+# ======================================= Learning configs ==================================
+n_epoch: 200
+batch_size: 64
+test_batch_size: 16
+lr: 0.0001
+loss_weights: 0.5
+clip_gradient: 0.5
+start_epoch: 0
+weight_decay: 5e-4
+
+  # ======================================= Print and snapshot configs ==================================
+snapshot_pref: /data1/cy/MTN/checkpoints/my/
+print_freq: 100
+eval_freq: 1
+
+
