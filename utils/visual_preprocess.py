@@ -186,11 +186,11 @@ def main():
     vids = [vid for vid in vids if str(vid) not in existing_vids]
     with open(error_log, "a") as f:
         f.write(f"Total {len(vids)} videos to be processed.\n")
-    # mp4files = [os.path.join(args.video_root, str(vid) + ".mp4") for vid in vids]
-    # ffmpeg_args = [(mp4, args.frame_dir) for mp4 in mp4files]
+    mp4files = [os.path.join(args.video_root, str(vid) + ".mp4") for vid in vids]
+    ffmpeg_args = [(mp4, args.frame_dir) for mp4 in mp4files]
 
-    # with multiprocessing.Pool(40) as p:
-    #     p.map(ffmpeg_extraction, ffmpeg_args)
+    with multiprocessing.Pool(40) as p:
+        p.map(ffmpeg_extraction, ffmpeg_args)
 
     # MARK: step2: Extract features from the frames
     device = torch.device("cuda")

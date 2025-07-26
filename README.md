@@ -19,30 +19,17 @@ conda activate unicr
 
 ## 📁 Dataset
 
-You can download AVE-PM dataset from [Baidu Cloud Link](https://pan.baidu.com/s/1ErDp1zVEe0mugVMmQFbqow?pwd=2979). And then unzip the video files into the `dataset/data/ave-pm/videos/` folder.
+AVE dataset can be downloaded from https://drive.google.com/open?id=1FjKwe79e0u96vdjIVwfRQ1V6SoDHe7kK. And then unzip the video files into the `./dataset/data/ave/videos/` folder.
+
+AVE-PM can be downloaded from [Baidu Cloud Link](https://pan.baidu.com/s/1ErDp1zVEe0mugVMmQFbqow?pwd=2979). And then unzip the video files into the `./dataset/data/ave-pm/videos/` folder.
 
 ### ⚙️ Data Preparation
 Prior to training and evaluation, you'll need to preprocess the data by extracting audio and visual features.
 
-🔉 **Feature Extraction**
-
-Use the provided script to extract features from raw audio and video data. The script is located at `./utils/encode.py`:
+Or you can download AVE [audio_features](https://drive.google.com/file/d/1F6p4BAOY-i0fDXUOhG7xHuw_fnO5exBS/view?usp=sharing) and [visual_features](https://drive.google.com/file/d/1hQwbhutA3fQturduRnHMyfRqdrRHgmC9/view?usp=sharing) (7.7GB). And AVE-PM features is not provided, you need to extract features by yourself according to the [README.md](https://github.com/dzdydx/ave-pm/tree/main) of AVE-PM.
 
 
-This will extract audio and visual features from the videos and store them in `dataset/data/features`.
-
-🧠 **Event Template and Preprocessing**
-First generate the `event_templates.pkl` file for audio preprocessing, then process the audio/video data:
-
-``` bash
-# Step 1: get the event_templates.pkl file
-bash scripts_helper/get_template.sh
-
-# Step 2: process audio/video and extract audio/visual features
-bash scripts_helper/run_preprocess.sh
-```
-
-Customize the parameters in the `.sh` files as needed. Alternative feature extraction methods may be used.
+This will extract audio and visual features from the videos and store them in `dataset/data/feature/<dataset_name>/`.
 
 ### 📂 Directory Structure
 
@@ -56,30 +43,50 @@ UniCR/
 |	|	|   |── select/
 |	├── data/
 |	|	├── ave-pm/
+|   |	|	|── videos/
+|   |	|	|── frames/
 |	|	|── ave/
+|   |	|	|── videos/
+|   |	|	|── frames/
 |	|── feature/
+|	|	├── ave-pm/
+|	|	|── ave/
 ```
 
 ## 🚀 Training & Evaluation
+Before training and evaluation, you need to modify the `.sh` script to specify the dataset to use and the training/evaluation mode.
 
-We provide scripts for four baseline models. Run evaluations using:
+- if is_select is true, you choose the S-xxx dataset to train and test
+- if ave is true, you use the AVE dataset to train and test
+- if avepm is true, you use the AVE-PM dataset to train and test
+
+Note: you should set the correct data_root, meta_root, v_feature_root, a_feature_root, category_num, and preprocess according to your own dataset
+To train or evaluate the model, run the following command:
 
 ```bash
-bash run.sh # Customize model and mode inside the script
+bash train.sh 
+# or
+bash test.sh
 ```
 
-Modify `run.sh` to select models and specify training/evaluation modes.
+## 📈 Checkpoints
+You can download the checkpoints from [coming soon]() and put them into the `./checkpoints/` folder.
 
-**Note**: The `run.sh` script serves as a configuration wrapper. Adjust parameters in the corresponding scripts as needed.
 
 
 ## 📌 Citation
+If you find this project helpful, please consider citing:
 
+```
+
+```
 
 
 
 ## 🙏 Acknowledgements
-
+We acknowledge the following works: 
+- AVE (ECCV'18): https://github.com/YapengTian/AVE-ECCV18
+- AVE-PM: https://github.com/dzdydx/ave-pm/tree/main
 
 
 ## 📄 License
