@@ -19,24 +19,19 @@ conda activate unicr
 
 ## 📁 Dataset
 
-AVE dataset can be downloaded from https://drive.google.com/open?id=1FjKwe79e0u96vdjIVwfRQ1V6SoDHe7kK. And then unzip the video files into the `./dataset/data/ave/videos/` folder.
+The AVE and AVE-PM dataset can be downloaded from [Google Drive](`https://drive.google.com/open?id=1FjKwe79e0u96vdjIVwfRQ1V6SoDHe7kK`) and [Baidu Cloud Link](https://pan.baidu.com/s/1ErDp1zVEe0mugVMmQFbqow?pwd=2979), respectively. Then unzip the video files into the `./dataset/data/<dataset_name>/videos/` folder.
 
-AVE-PM can be downloaded from [Baidu Cloud Link](https://pan.baidu.com/s/1ErDp1zVEe0mugVMmQFbqow?pwd=2979). And then unzip the video files into the `./dataset/data/ave-pm/videos/` folder.
+Before training and evaluation, you need to extract audio and visual features.
+Or you can download AVE [audio_features](https://drive.google.com/file/d/1F6p4BAOY-i0fDXUOhG7xHuw_fnO5exBS/view?usp=sharing) and [visual_features](https://drive.google.com/file/d/1hQwbhutA3fQturduRnHMyfRqdrRHgmC9/view?usp=sharing) (7.7GB). AVE-PM features is not provided, you can extract features by yourself according to the [README.md](https://github.com/dzdydx/ave-pm/tree/main) of AVE-PM.
 
-### ⚙️ Data Preparation
-Prior to training and evaluation, you'll need to preprocess the data by extracting audio and visual features.
-
-Or you can download AVE [audio_features](https://drive.google.com/file/d/1F6p4BAOY-i0fDXUOhG7xHuw_fnO5exBS/view?usp=sharing) and [visual_features](https://drive.google.com/file/d/1hQwbhutA3fQturduRnHMyfRqdrRHgmC9/view?usp=sharing) (7.7GB). And AVE-PM features is not provided, you need to extract features by yourself according to the [README.md](https://github.com/dzdydx/ave-pm/tree/main) of AVE-PM.
-
-
-This will extract audio and visual features from the videos and store them in `dataset/data/feature/<dataset_name>/`.
+Features should be saved in `dataset/data/feature/<dataset_name>/`.
 
 ### 📂 Directory Structure
 
 ```graphql
 UniCR/
 ├── dataset/
-|	├── csv/			   # csv files for training,validating and testing
+|	├── csv/			   # csv files for training, validating and testing
 |	|	├── ave-pm/
 |	|	|   |── select/
 |	|	|── ave/
@@ -44,24 +39,23 @@ UniCR/
 |	├── data/
 |	|	├── ave-pm/
 |   |	|	|── videos/
-|   |	|	|── frames/
 |	|	|── ave/
 |   |	|	|── videos/
-|   |	|	|── frames/
 |	|── feature/
 |	|	├── ave-pm/
 |	|	|── ave/
 ```
 
 ## 🚀 Training & Evaluation
-Before training and evaluation, you need to modify the `.sh` script to specify the dataset to use and the training/evaluation mode.
+Modify the `.sh` script to specify the dataset to use in the training/testing mode.
 
 - if is_select is true, you choose the S-xxx dataset to train and test
 - if ave is true, you use the AVE dataset to train and test
 - if avepm is true, you use the AVE-PM dataset to train and test
 
 Note: you should set the correct data_root, meta_root, v_feature_root, a_feature_root, category_num, and preprocess according to your own dataset
-To train or evaluate the model, run the following command:
+
+To train or test the model, run the following command:
 
 ```bash
 bash train.sh 
