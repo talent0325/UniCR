@@ -19,7 +19,7 @@ conda activate unicr
 
 ## 📁 Dataset
 
-The AVE and AVE-PM dataset can be downloaded from [Google Drive](`https://drive.google.com/open?id=1FjKwe79e0u96vdjIVwfRQ1V6SoDHe7kK`) and [Baidu Cloud Link](https://pan.baidu.com/s/1ErDp1zVEe0mugVMmQFbqow?pwd=2979), respectively. Then unzip the video files into the `./dataset/data/<dataset_name>/videos/` folder.
+<!-- The AVE and AVE-PM dataset can be downloaded from [Google Drive](`https://drive.google.com/open?id=1FjKwe79e0u96vdjIVwfRQ1V6SoDHe7kK`) and [Baidu Cloud Link](https://pan.baidu.com/s/1ErDp1zVEe0mugVMmQFbqow?pwd=2979), respectively. Then unzip the video files into the `./dataset/data/<dataset_name>/videos/` folder. -->
 
 Before training and evaluation, you need to extract audio and visual features.
 Or you can download AVE [audio_features](https://drive.google.com/file/d/1F6p4BAOY-i0fDXUOhG7xHuw_fnO5exBS/view?usp=sharing) and [visual_features](https://drive.google.com/file/d/1hQwbhutA3fQturduRnHMyfRqdrRHgmC9/view?usp=sharing) (7.7GB). AVE-PM features is not provided, you can extract features by yourself according to the [README.md](https://github.com/dzdydx/ave-pm/tree/main) of AVE-PM.
