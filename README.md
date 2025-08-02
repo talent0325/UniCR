@@ -1,4 +1,4 @@
-# UniCR: A Unimodel with Contribution Learning Network and Residual Frame-wise Attention for Multi-aspect-ratio Audio-Visual Event Localization
+# MoFA: Modality Contribution Learning and Residual Framewise Attention for Audio-Visual Event Localization in Short Video Era
 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)

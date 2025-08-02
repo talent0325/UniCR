@@ -1,4 +1,4 @@
-name: unicr
+name: mofa
 channels:
   - pytorch
   - nvidia
