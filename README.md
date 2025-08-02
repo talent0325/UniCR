@@ -10,11 +10,11 @@
 1. **Clone the repository**
 
 ```bash
-git git@github.com:talent0325/UniCR.git
-cd UniCR
+git git@github.com:talent0325/MoFA.git
+cd MoFA
 
 conda env create -f environment.yaml
-conda activate unicr
+conda activate mofa
 ```
 
 ## 📁 Dataset
@@ -29,7 +29,7 @@ Features should be saved in `dataset/data/feature/<dataset_name>/`.
 ### 📂 Directory Structure
 
 ```graphql
-UniCR/
+MoFA/
 ├── dataset/
 |	├── csv/			   # csv files for training, validating and testing
 |	|	├── ave-pm/
